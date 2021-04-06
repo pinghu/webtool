@@ -1,0 +1,636 @@
+Comp ID	Biochemical Name	CAS	Chemical ID	HMDB	KEGG	Mass	PUBCHEM	Pathway Sort Order	Platform	RI	Sub Pathway	Super Pathway
+1105	linoleate (18:2n6)	60-33-3	180	HMDB00673	C01595	279.23295	5280450	NA	LC/MS neg	5535	Polyunsaturated Fatty Acid (n3 and n6)	Lipid
+1107	allantoin	97-59-6	1002	HMDB00462	C02350	157.03671	204	2547	LC/MS polar	1672	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+1110	arachidonate (20:4n6)	506-32-1	229	HMDB01043	C00219	303.23295	444899	NA	LC/MS neg	5535	Polyunsaturated Fatty Acid (n3 and n6)	Lipid
+1114	deoxycholate	83-44-3	302	HMDB00626	C04483	391.28538	222528	1956	LC/MS neg	5294	Secondary Bile Acid Metabolism	Lipid
+1123	inosine	58-63-9	361	HMDB00195	C00294	267.07349	6021	2537	LC/MS neg	1602.1	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+1124	myo-inositol	87-89-8	363	HMDB00211	C00137	225.06159	892	1404	LC/MS polar	3506.3	Inositol Metabolism	Lipid
+1125	isoleucine	73-32-5	376	HMDB00172	C00407	132.10191	6306	268	LC/MS pos early	2800	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+1126	alanine	56-41-7	811	HMDB00161	C00041	90.05496	5950	25	LC/MS pos early	1700	Alanine and Aspartate Metabolism	Amino Acid
+11438	phosphate	7664-38-2	461	HMDB01429	C00009	298.9	1061	NA	GC/MS	1307.7	Oxidative Phosphorylation	Energy
+11777	glycine	56-40-6	340	HMDB00123	C00037	101.9	750	NA	GC/MS	1166	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+12023	thymidine 5'-monophosphate	33430-62-5	1248	HMDB01227	C00364	321.04933	9700	NA	LC/MS neg	883	"Pyrimidine Metabolism, Thymine containing"	Nucleotide
+12024	xanthosine 5'-monophosphate (xmp)	25899-70-1	1251	HMDB01554	C00655	363.03474	73323	NA	LC/MS neg	580	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+12035	pelargonate (9:0)	112-05-0	437	HMDB00847	C01601	157.1234	8158	NA	LC/MS neg	4798	Medium Chain Fatty Acid	Lipid
+12102	phosphoethanolamine	1071-23-4	1026	HMDB00224	C00346	299.1	1015	NA	GC/MS	1577.3	Phospholipid Metabolism	Lipid
+12129	beta-hydroxyisovalerate	625-08-1	1442	HMDB00754	NA	117.05572	69362	250	LC/MS polar	1149.8	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+1284	threonine	72-19-5	564	HMDB00167	C00188	120.06552	6288	14	LC/MS pos early	1514	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+1299	tyrosine	60-18-4	815	HMDB00158	C00082	182.08117	6057	113	LC/MS pos early	2430	Phenylalanine and Tyrosine Metabolism	Amino Acid
+1301	lysine	56-87-1	407	HMDB00182	C00047	147.11281	5962	74	LC/MS pos early	2850	Lysine Metabolism	Amino Acid
+1302	methionine	63-68-3	415	HMDB00696	C00073	150.05833	6137	295	LC/MS pos early	2526	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+1303	malate	6915-15-7	409	HMDB00156	C00149	133.01425	525	997	LC/MS neg	615.6	TCA Cycle	Energy
+1336	palmitate (16:0)	57-10-3	424	HMDB00220	C00249	255.23295	985	NA	LC/MS neg	5618	Long Chain Fatty Acid	Lipid
+1358	stearate (18:0)	57-11-4	439	HMDB00827	C01530	283.26425	5281	1030	LC/MS neg	5872	Long Chain Fatty Acid	Lipid
+1359	oleate (18:1n9)	112-80-1	442	HMDB00207	C00712	339.2	445639	NA	GC/MS	1984.4	Long Chain Fatty Acid	Lipid
+1408	putrescine	110-60-1	49	HMDB01414	C00134	89.10733	1045	368	LC/MS pos early	3027	Polyamine Metabolism	Amino Acid
+1411	2'-deoxyguanosine	961-07-9	348	HMDB00085	C00330	268.10404	187790	2609	LC/MS pos early	1890	"Purine Metabolism, Guanine containing"	Nucleotide
+1412	2'-deoxyuridine	951-78-0	536	HMDB00012	C00526	111.01997	13712	2639	LC/MS neg	1585.5	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+1414	3-phosphoglycerate	80731-10-8	132	HMDB00807	C00597	184.98566	724	NA	LC/MS neg	583	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+1416	gamma-aminobutyrate (GABA)	56-12-2	141	HMDB00112	C00334	104.07061	119	44	LC/MS pos early	2048	Glutamate Metabolism	Amino Acid
+1417	kynurenate	492-27-3	98	HMDB00715	C01717	188.03531	3845	206	LC/MS neg	2224	Tryptophan Metabolism	Amino Acid
+1418	"5,6-dihydrothymine"	696-04-8	158	HMDB00079	C00906	127.0513	93556	NA	LC/MS neg	1637.8	"Pyrimidine Metabolism, Thymine containing"	Nucleotide
+1419	5-methylthioadenosine (MTA)	2457-80-9	212	HMDB01173	C00170	298.09684	439176	371	LC/MS pos early	2752	Polyamine Metabolism	Amino Acid
+1437	succinate	110-15-6	252	HMDB00254	C00042	117.01933	1110	995	LC/MS neg	603	TCA Cycle	Energy
+1444	pipecolate	4043-87-2	1025	HMDB00070	C00408	130.08626	849	92	LC/MS pos early	2200	Lysine Metabolism	Amino Acid
+1481	inositol 1-phosphate (I1P)	573-35-3;106032-59-1	370	HMDB00213	C04006	318.1	440194	NA	GC/MS	2057.8	Inositol Metabolism	Lipid
+1493	ornithine	3184-13-2	444	HMDB03374	C00077	133.09716	6262	332	LC/MS pos early	2800	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+1494	5-oxoproline	98-79-3	1021	HMDB00267	C01879	128.03531	7405	390	LC/MS neg	738.5	Glutathione Metabolism	Amino Acid
+1496	methylmalonate (MMA)	516-05-2	418	HMDB00202	C02170	117.01933	487	1227	LC/MS polar	3078.4	Fatty Acid Metabolism (also BCAA Metabolism)	Lipid
+1497	ethanolamine	141-43-5	420	HMDB00149	C00189	174.1	700	NA	GC/MS	1304	Phospholipid Metabolism	Lipid
+1498	"N6,N6,N6-trimethyllysine"	23284-33-5	189	HMDB01325	C03793	189.15976	440120	78	LC/MS pos early	2825	Lysine Metabolism	Amino Acid
+1504	nicotinate	59-67-6	567	HMDB01488	C00253	122.02475	938	2674	LC/MS neg	1180	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+1505	orotate	50887-69-9	445	HMDB00226	C00295	155.00983	967	2613	LC/MS polar	1638.1	"Pyrimidine Metabolism, Orotate containing"	Nucleotide
+15053	sorbitol	6706-59-8	506	HMDB00247	C00794	319.1	5780	NA	GC/MS	1843	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+15076	2'-deoxyinosine	890-38-0	100000135	HMDB00071	C05512	251.07857	65058	NA	LC/MS neg	1688	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+1508	pantothenate	137-08-6	1024	HMDB00210	C00864	218.10339	6613	2702	LC/MS neg	1498.7	Pantothenate and CoA Metabolism	Cofactors and Vitamins
+15122	glycerol	56-81-5	1254	HMDB00131	C00116	91.04007	753	1678	LC/MS neg	758	Glycerolipid Metabolism	Lipid
+15129	alanylalanine	1948-31-8	100000113	HMDB28680	NA	159.07751	5484352	NA	LC/MS neg	810	Dipeptide	Peptide
+15130	diaminopimelate	1476-39-7;2577-62-0	100000115	HMDB01370	C00666	191.10264	439283	2927	LC/MS pos early	2569	Food Component/Plant	Xenobiotics
+15136	xanthosine	146-80-5	100000299	HMDB00299	C01762	285.08296	64959	2541	LC/MS pos early	1275	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+15140	kynurenine	2922-83-0	100000265	HMDB00684	C00328	209.09207	161166	205	LC/MS pos early	2739	Tryptophan Metabolism	Amino Acid
+15142	allo-threonine	28954-12-3	100000272	HMDB04041	C05519	219	99289	NA	GC/MS	1417.8	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+1519	sucrose	57-50-1	935	HMDB00258	C00089	341.10894	5988	893	LC/MS neg	865	Disaccharides and Oligosaccharides	Carbohydrate
+15365	glycerol 3-phosphate (G3P)	29849-82-9	100000258	HMDB00126	C00093	357.1	754	NA	GC/MS	1719.7	Glycerolipid Metabolism	Lipid
+15443	glucuronate	207300-70-7	100000257	HMDB00127	C00191	193.03537	444791	957	LC/MS polar	3233.3	Aminosugar Metabolism	Carbohydrate
+1549	3-hydroxyisobutyrate	2068-83-9	111	HMDB00336	C06001	103.04007	87	286	LC/MS polar	1619.1	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+15497	argininosuccinate	156637-58-0	232	HMDB00052	C03406	291.12992	16950;828	335	LC/MS pos early	2745	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+15500	carnitine	461-05-2	100000007	HMDB00062	C00318	162.11247	10917	1258	LC/MS pos early	1978	Carnitine Metabolism	Lipid
+15506	choline	67-48-1	1256	HMDB00097	C00114	104.10699	305	1431	LC/MS pos early	1961	Phospholipid Metabolism	Lipid
+15573	trehalose	6138-23-4	915	HMDB00975	C01083	361.2	7427	NA	GC/MS	2174.9	Disaccharides and Oligosaccharides	Carbohydrate
+1558	4-acetamidobutanoate	3025-96-5	1113	HMDB03681	C02946	146.08117	18189	NA	LC/MS pos	1721.3	Polyamine Metabolism	Amino Acid
+15586	maltose	6363-53-7	913	HMDB00163	C00208	387.11442	10991489	871	LC/MS polar	3329.4	Glycogen Metabolism	Carbohydrate
+1559	"5,6-dihydrouracil"	504-07-4	1125	HMDB00076	C00429	115.05021	649	NA	LC/MS pos	1148	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+1561	alpha-tocopherol	59-02-9;10191-41-0	1105	HMDB01893	C02477	430.37818	14985	2716	LC/MS pos late	2522	Tocopherol Metabolism	Cofactors and Vitamins
+1564	citrate	77-92-9	1124	HMDB00094	C00158	191.01973	311	987	LC/MS neg	582	TCA Cycle	Energy
+15650	N1-methyladenosine	15763-06-1	1242	HMDB03331	C02494	282.11969	27476	2565	LC/MS pos early	2120	"Purine Metabolism, Adenine containing"	Nucleotide
+1566	3-aminoisobutyrate	10569-72-9;214139-20-5	1114	HMDB03911	C05145	104.07061	64956	2671	LC/MS pos early	2215	"Pyrimidine Metabolism, Thymine containing"	Nucleotide
+15667	2-isopropylmalate	3237-44-3	100000409	HMDB00402	C02504	175.06119	77	NA	LC/MS neg	725	Food Component/Plant	Xenobiotics
+15676	3-methyl-2-oxovalerate	1460-34-0;51829-07-3	100000036	HMDB03736	C00671	129.05572	47	271	LC/MS neg	2064.2	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+15681	4-guanidinobutanoate	463-003;463-00-3	100000096	HMDB03464	C01035	146.09241	500	380	LC/MS pos early	2320	Guanidino and Acetamido Metabolism	Amino Acid
+15705	cystathionine	535-34-2	310	HMDB00099	C02291	223.07471	439258	307	LC/MS pos early	2270	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+15716	imidazole lactate	14403-45-3	100000263	HMDB02320	C05568	157.06077	440129	65	LC/MS pos early	2040	Histidine Metabolism	Amino Acid
+1572	glycerate	600-19-1	1052	HMDB00139	C00258	105.01933	752	823	LC/MS polar	2070.4	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+15720	N-acetylglutamate	1430871	100000282	HMDB01138	C00624	188.05644	70914	41	LC/MS polar	3106	Glutamate Metabolism	Amino Acid
+15725	nicotinate adenine dinucleotide (NAAD+)	6450-77-7;104809-30-5	100000118	NA	NA	663.08586	25246170	NA	LC/MS neg	1200	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+1573	guanosine	118-00-3	1099	HMDB00133	C00387	284.09895	6802	2592	LC/MS pos early	1650	"Purine Metabolism, Guanine containing"	Nucleotide
+15737	glycolate (hydroxyacetate)	79-14-1	203	HMDB00115	C00160	177	757	NA	GC/MS	1119	Chemical	Xenobiotics
+1574	histamine	51-45-6	354	HMDB00870	C00388	112.08693	774	66	LC/MS pos early	3035	Histidine Metabolism	Amino Acid
+15745	methylsuccinate	498-21-5	2051	HMDB01844	NA	131.03498	10349	260	LC/MS polar	2800	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+15753	hippurate	495-69-2	100000014	HMDB00714	C01586	178.05096	464	2781	LC/MS neg	2106.9	Benzoate Metabolism	Xenobiotics
+15765	ethylmalonate	601-75-2	2054	HMDB00622	NA	131.03498	11756	279	LC/MS polar	2785	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+15772	ribitol	488-81-3	100000406	HMDB00508	C00474	151.06119	6912	839	LC/MS polar	1789.6	Pentose Metabolism	Carbohydrate
+15778	benzoate	65-85-0	100000008	HMDB01870	C00180	121.0295	243	2793	LC/MS neg	1750	Benzoate Metabolism	Xenobiotics
+15797	flavin mononucleotide (FMN)	130-40-5	100000251	HMDB01520	C00061	455.09733	710	NA	LC/MS neg	2390	Riboflavin Metabolism	Cofactors and Vitamins
+1585	N-acetylalanine	97-69-8	1110	HMDB00766	C02847	130.05096	88064	26	LC/MS polar	1564.8	Alanine and Aspartate Metabolism	Amino Acid
+1587	N-acetylleucine	1188-21-2	1082	HMDB11756	C02710	172.09791	70912	240	LC/MS neg	2400	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+15872	malonate (propanedioate)	141-82-2;26522-22-85-0	818	HMDB00691	C00383	103.00368	867	NA	LC/MS polar	3447	Fatty Acid Synthesis	Lipid
+1589	N-acetylmethionine	65-82-7	1083	HMDB11745	C02712	190.05434	448580	296	LC/MS neg	1787	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+1591	N-acetylvaline	96-81-1	1084	HMDB11757	NA	158.08226	66789	281	LC/MS neg	1704	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+1594	N-carbamoylaspartate	923-37-5	1108	HMDB00828	C00438	175.03604	93072	NA	LC/MS polar	3800	"Pyrimidine Metabolism, Orotate containing"	Nucleotide
+15949	2'-deoxycytidine	951-77-9	100000125	HMDB00014	C00881	228.09789	13711	2661	LC/MS pos early	2193	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+15990	glycerophosphorylcholine (GPC)	28319-77-9	100000269	HMDB00086	C00670	258.1101	71920	1434	LC/MS pos early	672	Phospholipid Metabolism	Lipid
+1600	phosphoethanolamine	1071-23-4	1026	HMDB00224	C00346	140.01182	1015	1438	LC/MS neg	638	Phospholipid Metabolism	Lipid
+1603	tyramine	60-19-5	1133	HMDB00306	C00483	138.09134	5610	119	LC/MS pos early	2477	Phenylalanine and Tyrosine Metabolism	Amino Acid
+1604	urate	69-93-2;120K5305	1134	HMDB00289	C00366	169.03562	1175	2546	LC/MS pos early	776	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+1638	arginine	1119-34-2	231	HMDB00517	C00062	175.11896	232	330	LC/MS pos early	2825	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+1642	caprate (10:0)	112-37-8	888	HMDB00511	C01571	171.13905	2969	NA	LC/MS neg	5090.7	Medium Chain Fatty Acid	Lipid
+1643	fumarate	100-17-8	330	HMDB00134	C00122	115.00368	444972	996	LC/MS polar	3084	TCA Cycle	Energy
+1644	heptanoate (7:0)	111-14-8	925	HMDB00666	C17714	129.0921	8094	1013	LC/MS neg	3670	Medium Chain Fatty Acid	Lipid
+1645	laurate (12:0)	143-07-7	181	HMDB00638	C02679	199.17035	3893	NA	LC/MS neg	5300	Medium Chain Fatty Acid	Lipid
+1648	serine	56-45-1	503	HMDB00187	C00065	106.04987	5951	9	LC/MS pos early	1239	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+1649	valine	72-18-4	566	HMDB00883	C00183	118.08626	6287	280	LC/MS pos early	2479	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+1651	pyridoxal	65-22-5	491	HMDB01545	C00250	168.06552	1050	2778	LC/MS pos early	2343	Vitamin B6 Metabolism	Cofactors and Vitamins
+1654	"1,3-diaminopropane"	109-76-2	48	HMDB00002	C00986	174	428	NA	GC/MS	1633.8	Polyamine Metabolism	Amino Acid
+1669	4-hydroxyphenylpyruvate	156-39-8	1141	HMDB00707	C01179	179.03498	979	122	LC/MS neg	1690.1	Phenylalanine and Tyrosine Metabolism	Amino Acid
+1670	urea	57-13-6	533	HMDB00294	C00086	121.07201	1176	331	LC/MS pos early	700	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+1712	cortisol	50-23-7	356	HMDB00063	C00735	361.20204	5754	1856	LC/MS neg	4713.2	Steroid	Lipid
+1769	cortisone	53-06-5	273	HMDB02802	C00762	359.18639	222786	1861	LC/MS neg	4572.5	Steroid	Lipid
+1778	gamma-glutamylcysteine	636-58-8	1036	HMDB01049	C00669	251.06963	842	NA	LC/MS pos	1263.5	Gamma-glutamyl Amino Acid	Peptide
+18245	gamma-glutamylhistidine	37460-15-4	1235	NA	NA	285.11935	7017195	403	LC/MS pos early	2740	Gamma-glutamyl Amino Acid	Peptide
+1826	folate	59-30-3	328	HMDB00121	C00504	440.1324	6037	2734	LC/MS neg	1467	Folate Metabolism	Cofactors and Vitamins
+1827	riboflavin (Vitamin B2)	83-88-5	500	HMDB00244	C00255	377.14557	493570	2699	LC/MS pos early	2292	Riboflavin Metabolism	Cofactors and Vitamins
+18289	3'-dephosphocoenzyme A	3633-59-8	100000138	HMDB01373	C00882	686.1416	444485	NA	LC/MS neg	2013	Pantothenate and CoA Metabolism	Cofactors and Vitamins
+18349	indolelactate	832-97-3	100000463	HMDB00671	C02043	206.08117	92904	199	LC/MS pos early	2600	Tryptophan Metabolism	Amino Acid
+18354	N-acetylmuramate	10597-89-4	100000283	HMDB60493	C02713	292.10379	5462244	971	LC/MS neg	860	Aminosugar Metabolism	Carbohydrate
+18357	glycylvaline	1963-21-9	100000487	HMDB28854	NA	175.10772	97417	550	LC/MS pos early	2734	Dipeptide	Peptide
+18369	gamma-glutamylleucine	2566-39-4	1268	HMDB11171	NA	261.1445	151023	405	LC/MS pos early	2991	Gamma-glutamyl Amino Acid	Peptide
+18374	methionine sulfoxide	3226-65-1	100000039	HMDB02005	C02989	166.05325	158980	300	LC/MS pos early	1272	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+1868	cysteine	52-90-4;56-89-3	800	HMDB00574	C00097	122.02703	5862	312	LC/MS pos early	1488	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+1898	proline	147-85-3	480	HMDB00162	C00148	116.07061	145742	333	LC/MS pos early	1603	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+19934	myo-inositol	87-89-8	363	HMDB00211	C00137	217	892	NA	GC/MS	1924.9	Inositol Metabolism	Lipid
+20488	glucose	50-99-7	572	HMDB00122	C00031	179.05611	79025	803	LC/MS polar	2342	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+20676	maleate (cis-Butenedioate)	110-16-7	100000707	HMDB00176	C01384	115.00368	444266	NA	LC/MS polar	2510	"Fatty Acid, Dicarboxylate"	Lipid
+20693	tartronate (hydroxymalonate)	80-69-3	100000840	HMDB35227	C02287	118.99859	45	3242	LC/MS neg	610	Bacterial/Fungal	Xenobiotics
+20699	erythritol	149-32-6	100000846	HMDB02994	C00503	167.05611	222285	3053	LC/MS polar	1491	Food Component/Plant	Xenobiotics
+20710	trizma acetate	6850-28-8	100000856	NA	C07182	306.2	6503	NA	GC/MS	1525	Chemical	Xenobiotics
+20877	4-amino-2-hydroxybutyrate	40371-51-5	100000877	NA	NA	174	2733929	NA	GC/MS	1651.5	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+21133	4-hydroxybenzoate	99-96-7	100000862	HMDB00500	C00156	137.02441	135	2802	LC/MS neg	820	Benzoate Metabolism	Xenobiotics
+21248	HEPES	7365-45-9	100000843	NA	NA	237.09145	23831	3625	LC/MS neg	1022	Chemical	Xenobiotics
+2125	taurine	107-35-7	512	HMDB00251	C00245	124.00739	1123	322	LC/MS polar	2120	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+2132	citrulline	372-75-8	391	HMDB00904	C00327	176.10297	9750	334	LC/MS pos early	1520	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+2133	inosine 5'-monophosphate (IMP)	4691-65-0	362	HMDB00175	C00130	347.03982	8582	NA	LC/MS neg	650	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+2134	flavin adenine dinucleotide (FAD)	146-14-5;84366-81-4	327	HMDB01248	C00016	784.14985	643975	NA	LC/MS neg	2425	Riboflavin Metabolism	Cofactors and Vitamins
+2150	pyridoxamine	58052-48-5	568	HMDB01431	C00534	169.09716	1052	2775	LC/MS pos early	2975	Vitamin B6 Metabolism	Cofactors and Vitamins
+2183	thymidine	50-89-5	872	HMDB00273	C00214	241.08299	5789	2667	LC/MS neg	1963.7	"Pyrimidine Metabolism, Thymine containing"	Nucleotide
+2184	cyanocobalamin (Vitamin B12)	68-19-9;78091-12-0	570	NA	NA	678.29098	NA	NA	LC/MS pos	2674	Vitamin B12 Metabolism	Cofactors and Vitamins
+22001	3-hydroxyoctanoate	88930-08-9	100000773	HMDB01954	NA	159.10266	26613	1274	LC/MS neg	3446	"Fatty Acid, Monohydroxy"	Lipid
+22053	3-hydroxydecanoate	5561-87-5	100000997	HMDB02203	NA	187.13396	26612	1275	LC/MS neg	4634.7	"Fatty Acid, Monohydroxy"	Lipid
+22116	4-methyl-2-oxopentanoate	816-66-0	100000551	HMDB00695	C00233	129.05571	70	242	LC/MS neg	2170	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+22130	phenyllactate (PLA)	828-01-3	100000774	HMDB00779	C05607	165.05571	3848	105	LC/MS neg	2208	Phenylalanine and Tyrosine Metabolism	Amino Acid
+22132	alpha-hydroxyisocaproate	10303-64-7	100000706	HMDB00746	C03264	131.07136	83697	287	LC/MS neg	1840	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+22138	homocitrulline	1190-49-4	100000963	HMDB00679	C02427	190.11862	65072	337	LC/MS pos early	1908	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+22152	nicotinamide ribonucleotide (NMN)	1094-61-7	1312	HMDB00229	C00455	335.06388	14180	2679	LC/MS pos early	766	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+22158	citramalate	1583974	100000998	HMDB00426	C00815	147.02989	1081	NA	LC/MS polar	3201	Glutamate Metabolism	Amino Acid
+22171	glycylproline	704-15-4	100000976	HMDB00721	NA	173.09207	3013625	NA	LC/MS pos	1090	Dipeptide	Peptide
+22176	cysteine s-sulfate	1637-71-4	100000808	HMDB00731	C05824	201.98384	115015	317	LC/MS pos early	565	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+22185	N-acetylaspartate (NAA)	997-55-7;997-55-7	100000787	HMDB00812	C01042	174.04079	65065	32	LC/MS polar	3143	Alanine and Aspartate Metabolism	Amino Acid
+22194	pyroglutamylglutamine	109481-23-4	100000966	NA	NA	256.09389	NA	NA	LC/MS neg	855	Dipeptide	Peptide
+23642	homoserine	672-15-1	100000458	HMDB00719	C00263	218.1	12647	NA	GC/MS	1471	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+2372	cytidine 5'-monophosphate (5'-CMP)	63-37-6	282	HMDB00095	C00055	324.05914	6131	2648	LC/MS pos early	835	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+2730	gamma-glutamylglutamine	10148-81-9	1140	HMDB11738	C05283	276.11902	150914	401	LC/MS pos early	1430	Gamma-glutamyl Amino Acid	Peptide
+2734	gamma-glutamyltyrosine	7432-23-7	1102	HMDB11741	NA	311.12377	94340	NA	LC/MS pos	2080.4	Gamma-glutamyl Amino Acid	Peptide
+27513	indoleacetate	6505-45-9	100001034	HMDB00197	C00954	174.05605	802	200	LC/MS neg	2200	Tryptophan Metabolism	Amino Acid
+2763	UDP-glucuronate	28053-08-9;63700-19-6	1097	HMDB00935	C00167	579.02701	17473	NA	LC/MS neg	588	Nucleotide Sugar	Carbohydrate
+27665	1-methylnicotinamide	1005-24-9	55	HMDB00699	C02918	137.07094	10129985	2689	LC/MS pos early	1940	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+27710	N-acetylglycine	543-24-8	100001006	HMDB00532	NA	118.04987	10972	2	LC/MS pos early	826	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+27718	creatine	57-00-1	1221	HMDB00064	C00300	132.07676	586	358	LC/MS pos early	1947	Creatine Metabolism	Amino Acid
+27719	galactonate	299-28-5	100001026	HMDB00565	C00880	195.05102	128869	931	LC/MS polar	3085	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+27731	ribonate	1255190	100001007	HMDB00867	C01685	165.04046	5460677	840	LC/MS polar	2425	Pentose Metabolism	Carbohydrate
+27738	threonate	70753-61-6	100001022	HMDB00943	C01620	135.02989	151152	2712	LC/MS polar	2384	Ascorbate and Aldarate Metabolism	Cofactors and Vitamins
+27743	triethyleneglycol	112-27-6	100000975	NA	NA	151.09649	8172	NA	LC/MS pos	1810	Chemical	Xenobiotics
+2829	N-formylmethionine	4289-98-9	194	HMDB01015	C03145	176.03869	439750	297	LC/MS neg	1543.8	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+2831	"adenosine 3',5'-cyclic monophosphate (cAMP)"	60-92-4	207	HMDB00058	C00575	328.04524	6076	2555	LC/MS neg	1952.2	"Purine Metabolism, Adenine containing"	Nucleotide
+2841	cytidine diphosphate	34393-59-4	280	HMDB01546	C00112	402.01091	6132	NA	LC/MS neg	580	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+2844	cytidine triphosphate	36051-68-0	281	HMDB00082	C00063	481.97724	6176	NA	LC/MS neg	575	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+2849	guanosine 5'- monophosphate (5'-GMP)	1333479	347	HMDB01397	C00144	364.06528	6804	2587	LC/MS pos early	800	"Purine Metabolism, Guanine containing"	Nucleotide
+2856	uridine 5'-monophosphate (UMP)	3387-36-8	869	HMDB00288	C00105	323.02859	6030	NA	LC/MS polar	4150	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+2959	cytidine 3'-monophosphate (3'-CMP)	84-52-6	105	NA	C05822	324.05914	66535	2649	LC/MS pos early	920	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+3127	hypoxanthine	68-94-0	171	HMDB00157	C00262	135.03123	790	2538	LC/MS neg	1291.2	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+3141	betaine	107-43-7	799	HMDB00043	C00719	118.08626	247	6	LC/MS pos early	1064	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+31453	cysteine	52-90-4;56-89-3	800	HMDB00574	C00097	218	5862	NA	GC/MS	1560.1	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+3147	xanthine	69-89-6	1004	HMDB00292	C00385	153.04071	1188	2539	LC/MS pos early	1032	"Purine Metabolism, (Hypo)Xanthine/Inosine containing"	Nucleotide
+31522	pyroglutamylglycine	29227-88-1	100001127	NA	NA	185.05678	152981	NA	LC/MS neg	828.2	Dipeptide	Peptide
+3155	3-ureidopropionate	462-88-4	1053	HMDB00026	C02642	133.06077	111	2641	LC/MS pos early	875	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+31555	pyridoxate	82-82-6	100001121	HMDB00017	C00847	182.04588	6723	2779	LC/MS neg	2185	Vitamin B6 Metabolism	Cofactors and Vitamins
+31609	N1-methylguanosine	2140-65-0	100001122	HMDB01563	NA	298.1146	96373	NA	LC/MS pos	1869	"Purine Metabolism, Guanine containing"	Nucleotide
+31675	2-pyrrolidinone	616-45-5	100001081	HMDB02039	NA	86.06004	12025	3552	LC/MS pos early	1262	Chemical	Xenobiotics
+31940	3-methylcrotonylglycine	33008-07-0	100001149	HMDB00459	NA	158.08117	169485	NA	LC/MS pos	2573.6	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+32197	3-(4-hydroxyphenyl)lactate	6482-98-0	240	HMDB00755	C03672	181.05063	9378	123	LC/MS neg	1379	Phenylalanine and Tyrosine Metabolism	Amino Acid
+32198	acetylcarnitine	5080-50-2	100000802	HMDB00201	C02571	204.12304	1	1238	LC/MS pos early	2282	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+32306	trans-4-hydroxyproline	51-35-4	1001	HMDB00725	C01157	132.06552	5810	351	LC/MS pos early	1064	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+32328	hexanoylcarnitine	6920-35-0	100000781	HMDB00705	NA	260.18564	6426853	NA	LC/MS pos	3194	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+32342	adenosine 5'-monophosphate (AMP)	149022-20-8	209	HMDB00045	C00020	346.05581	6083	2552	LC/MS neg	822	"Purine Metabolism, Adenine containing"	Nucleotide
+32349	4-imidazoleacetate	645-65-8	100001207	HMDB02024	C02835	127.05021	96215	72	LC/MS pos early	2055	Histidine Metabolism	Amino Acid
+32352	guanine	73-40-5	172	HMDB00132	C00242	152.05669	764	2593	LC/MS pos early	2032	"Purine Metabolism, Guanine containing"	Nucleotide
+32377	N-acetylneuraminate	131-48-6	1162	HMDB00230	C00270	310.11326	439197	968	LC/MS pos early	660	Aminosugar Metabolism	Carbohydrate
+32379	scyllo-inositol	488-59-5	100001215	HMDB06088	C06153	318.2	892	NA	GC/MS	1893.8	Inositol Metabolism	Lipid
+32390	N-acetyltyrosine	537-55-3	100001104	HMDB00866	NA	222.07718	68310	114	LC/MS neg	1680	Phenylalanine and Tyrosine Metabolism	Amino Acid
+32394	pyroglutamylvaline	21282-10-0	100001132	NA	NA	227.10373	152416	NA	LC/MS neg	1755	Dipeptide	Peptide
+32397	3-hydroxy-2-ethylpropionate	4374-62-3	100001170	HMDB00396	NA	117.05571	188979	278	LC/MS polar	1443.3	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+32398	sebacate (decanedioate)	111-20-6	100001211	HMDB00792	C08277	201.11323	5192	NA	LC/MS neg	1788	"Fatty Acid, Dicarboxylate"	Lipid
+32401	trigonelline (N'-methylnicotinate)	535-83-1	100001092	HMDB00875	C01004	138.05496	5570	2694	LC/MS pos early	1388	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+32412	butyrylcarnitine	25576-40-3	100001054	HMDB02013	C02862	232.15434	439829	1221	LC/MS pos early	2860	Fatty Acid Metabolism (also BCAA Metabolism)	Lipid
+32418	myristoleate (14:1n5)	544-64-9	100001198	HMDB02000	C08322	225.186	5281119	NA	LC/MS neg	5346.9	Long Chain Fatty Acid	Lipid
+32446	guanidinosuccinate	6133-30-8	100001212	HMDB03157	C03139	176.06659	97856	NA	LC/MS pos	742.9	Guanidino and Acetamido Metabolism	Amino Acid
+32452	propionylcarnitine	17298-37-2	100001162	HMDB00824	C03017	218.13869	107738	1224	LC/MS pos early	2590	Fatty Acid Metabolism (also BCAA Metabolism)	Lipid
+32454	valylglutamate	424599	100001161	NA	NA	247.12885	7009623	NA	LC/MS pos	1320	Dipeptide	Peptide
+32457	3-hydroxylaurate	53941-38-1	100001112	HMDB00387	NA	215.16526	94216	NA	LC/MS neg	5175	"Fatty Acid, Monohydroxy"	Lipid
+32489	caproate (6:0)	142-62-1	926	HMDB00535	C01585	115.07645	8892	NA	LC/MS neg	2713.7	Medium Chain Fatty Acid	Lipid
+32492	caprylate (8:0)	124-07-2	932	HMDB00482	C06423	143.10775	379	NA	LC/MS neg	4362	Medium Chain Fatty Acid	Lipid
+32553	phenol sulfate	937-34-8	100001510	HMDB60015	C02180	172.9914	74426	128	LC/MS neg	2156	Phenylalanine and Tyrosine Metabolism	Amino Acid
+32980	adrenate (22:4n6)	2091-25-0	100001193	HMDB02226	C16527	331.26425	5497181	NA	LC/MS neg	5678	Polyunsaturated Fatty Acid (n3 and n6)	Lipid
+33009	homostachydrine*	1195-94-4	100001550	HMDB33433	C08283	158.11756	441447	3075	LC/MS pos early	1750	Food Component/Plant	Xenobiotics
+33013	nicotinamide riboside	1341-23-7	100001310	HMDB00855	C03150	255.09755	439924	2680	LC/MS pos early	2040	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+33132	X - 11787	NA	NA	NA	NA	148.09678	NA	NA	LC/MS pos early	2319	NA	NA
+33364	gamma-glutamylthreonine*	5652-48-2	100001314	HMDB29159	NA	249.10812	NA	409	LC/MS pos early	1750	Gamma-glutamyl Amino Acid	Peptide
+33422	gamma-glutamylphenylalanine	7432-24-8	100000491	HMDB00594	NA	295.12885	111299	408	LC/MS pos early	2992	Gamma-glutamyl Amino Acid	Peptide
+33441	isobutyrylcarnitine	25518-49-4	100001055	HMDB00736	NA	232.15434	168379	284	LC/MS pos early	2810	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+33442	pseudouridine	1445-07-4	821	HMDB00767	C02067	245.07682	15047	2627	LC/MS pos early	800	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+33443	valerate	109-52-4	1136	HMDB00892	C00803	101.0608	7991	1011	LC/MS neg	1718	Short Chain Fatty Acid	Lipid
+33449	adenosine 5'-triphosphate (ATP)	34369-07-8;51963-61-2	210	HMDB00538	C00002	NA	5957	NA	GC-FID	NA	"Purine Metabolism, Adenine containing"	Nucleotide
+33471	nicotinate ribonucleoside	2625-49-2	100001316	HMDB06809	C05841	256.08157	161234	NA	LC/MS pos	1085	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+33477	erythronate*	88759-55-1	100001320	HMDB00613	NA	292.1	2781043	NA	GC/MS	1546.9	Aminosugar Metabolism	Carbohydrate
+33487	"glutamate, gamma-methyl ester"	1499-55-4	100001103	NA	NA	162.07609	68662	49	LC/MS pos early	2170	Glutamate Metabolism	Amino Acid
+33934	gamma-glutamyl-epsilon-lysine	17105-15-6	100001262	HMDB03869	NA	276.1554	65254;14284565	406	LC/MS pos early	2717	Gamma-glutamyl Amino Acid	Peptide
+33936	octanoylcarnitine	3671-77-0	100001247	HMDB00791	C02838	288.21694	123701	1243	LC/MS pos late	950	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+33937	alpha-hydroxyisovalerate	600-37-3	100001300	HMDB00407	NA	117.05571	99823	NA	LC/MS neg	1126	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+33939	N-acetylthreonine	17093-74-2	100001274	NA	C01118	160.06153	152204	15	LC/MS neg	821.6	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+33941	decanoylcarnitine	1492-27-9	100001251	HMDB00651	NA	316.24824	10245190	1245	LC/MS pos late	1115	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+33942	N-acetylasparagine	4033-40-3	100001257	HMDB06028	NA	175.07134	99715	NA	LC/MS pos	961.6	Alanine and Aspartate Metabolism	Amino Acid
+33943	N-acetylglutamine	2490-97-3	100001253	HMDB06029	C02716	189.08699	182230	42	LC/MS pos early	845	Glutamate Metabolism	Amino Acid
+33945	phenylacetylglycine	500-98-1	100001275	HMDB00821	C05598	192.06661	68144	111	LC/MS neg	2375	Phenylalanine and Tyrosine Metabolism	Amino Acid
+33946	N-acetylhistidine	39145-52-3	100001293	HMDB32055	C02997	198.08732	75619	55	LC/MS pos early	2065	Histidine Metabolism	Amino Acid
+33947	gamma-glutamyltryptophan	66471-20-3	100001295	NA	NA	334.13975	3989307	NA	LC/MS pos	3035	Gamma-glutamyl Amino Acid	Peptide
+33949	gamma-glutamylglycine	1948-29-4	100001294	HMDB11667	NA	205.0819	165527	402	LC/MS pos early	1535	Gamma-glutamyl Amino Acid	Peptide
+33950	N-acetylphenylalanine	2018-61-3	100001256	HMDB00512	C03519	206.08226	74839	101	LC/MS neg	2597	Phenylalanine and Tyrosine Metabolism	Amino Acid
+33953	N-acetylarginine	155-84-0	100001266	HMDB04620	C02562	217.12952	67427	342	LC/MS pos early	2245	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+33954	glycylphenylalanine	519077	100001268	HMDB28848	NA	223.10772	92953	NA	LC/MS pos	2388.3	Dipeptide	Peptide
+33959	N-acetyltryptophan	1218-34-4	100001254	HMDB13713	C03137	245.09316	700653	NA	LC/MS neg	2630	Tryptophan Metabolism	Amino Acid
+33961	1-stearoyl-GPC (18:0)	19420-57-6	100001271	HMDB10384	NA	524.37107	497299	1571	LC/MS pos late	1606	Lysolipid	Lipid
+33967	N-acetylisoleucine	3077-46-1	100001276	NA	NA	172.09791	2802421	270	LC/MS neg	2325	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+33968	5-dodecenoate (12:1n7)	2430-94-6	100001232	HMDB00529	NA	197.1547	5312378	NA	LC/MS neg	5224	Medium Chain Fatty Acid	Lipid
+34384	stachydrine	4136-37-2	100001296	HMDB04827	C10172	144.10191	115244	3159	LC/MS pos early	1440	Food Component/Plant	Xenobiotics
+34387	N-acetylproline	1074-79-9	100001334	NA	NA	158.08117	322640	343	LC/MS pos early	1779	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+34391	1-margaroylglycerol (1-monoheptadecanoin)	68002-72-2	100001429	NA	NA	269.24858	107036	NA	LC/MS neg	6571	Monoacylglycerol	Lipid
+34396	choline phosphate	72556-74-2	267	HMDB01565	C00588	184.07332	1014	1432	LC/MS pos early	700	Phospholipid Metabolism	Lipid
+34398	glycylleucine	869-19-2	100001258	HMDB00759	C02155	189.12337	92843	540	LC/MS pos early	3059	Dipeptide	Peptide
+34407	isovalerylcarnitine	31023-24-2	100001393	HMDB00688	NA	246.16999	6426851	247	LC/MS pos early	3085	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+34410	cytidine-5'-diphosphoethanolamine	72842-05-8	100001407	HMDB01564	C00570	445.0531	123727	NA	LC/MS polar	4210	Phospholipid Metabolism	Lipid
+34418	cytidine 5'-diphosphocholine	33818-15-4	1220	HMDB01413	C00307	489.11461	13804	1433	LC/MS pos early	725	Phospholipid Metabolism	Lipid
+34456	gamma-glutamylisoleucine*	NA	100001485	HMDB11170	NA	261.1445	14253342	404	LC/MS pos early	2940	Gamma-glutamyl Amino Acid	Peptide
+34457	gamma-glutamylisoleucine*	NA	100001485	HMDB11170	NA	259.12994	14253342	NA	LC/MS neg	1585	Gamma-glutamyl Amino Acid	Peptide
+34534	laurylcarnitine	25518-54-1	100001392	HMDB02250	NA	344.27954	10427569	NA	LC/MS pos	5070	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+34592	ophthalmate	495-27-2	100001311	HMDB05765	NA	288.12011	7018721	NA	LC/MS neg	919	Glutathione Metabolism	Amino Acid
+35107	isovalerylglycine	16284-60-9	100001452	HMDB00678	NA	158.08226	546304	246	LC/MS neg	1950	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+35114	7-methylguanine	578-76-7	100001456	HMDB00897	C02242	166.07234	11361	2595	LC/MS pos early	2175	"Purine Metabolism, Guanine containing"	Nucleotide
+35127	pro-hydroxy-pro	18684-24-7	100001167	HMDB06695	NA	229.11829	11673055	353	LC/MS pos early	2128	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+35130	N4-acetylcytidine	3768-18-1	100001413	HMDB05923	NA	286.10337	107461	2655	LC/MS pos early	1681	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+35133	N2-methylguanosine	2140-77-4	100001467	HMDB05862	NA	296.10004	3035422	2600	LC/MS neg	1988	"Purine Metabolism, Guanine containing"	Nucleotide
+35136	5-methyluridine (ribothymidine)	1463-10-1	100001446	HMDB00884	NA	257.07791	445408	2628	LC/MS neg	1778.1	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+35137	"N2,N2-dimethylguanosine"	2140-67-2	100001412	HMDB04824	NA	312.13025	92919	2601	LC/MS pos early	2210	"Purine Metabolism, Guanine containing"	Nucleotide
+35142	adenosine 3'-monophosphate (3'-AMP)	84-21-9	100001449	HMDB03540	C01367	346.0558	41211	2553	LC/MS neg	1245	"Purine Metabolism, Adenine containing"	Nucleotide
+35157	N6-carbamoylthreonyladenosine	24719-82-2	100001415	HMDB41623	NA	413.14154	161466	NA	LC/MS pos	2673	"Purine Metabolism, Adenine containing"	Nucleotide
+35159	cysteine-glutathione disulfide	13081-14-6	100001437	HMDB00656	NA	427.09519	4247235	385	LC/MS pos early	2465	Glutathione Metabolism	Amino Acid
+35160	oleoylcarnitine	38677-66-6	100001501	HMDB05065	NA	426.35779	6441392;53477789	1254	LC/MS pos late	1423	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+35172	orotidine	314-50-1	100001416	HMDB00788	C01103	287.05209	92751	2615	LC/MS polar	2250	"Pyrimidine Metabolism, Orotate containing"	Nucleotide
+35320	catechol sulfate	4918-96-1	100001605	HMDB59724	C00090	188.98631	3083879	2810	LC/MS neg	1906	Benzoate Metabolism	Xenobiotics
+35437	isobutyrylglycine	15926-18-8	100001590	HMDB00730	NA	144.06661	10855600	285	LC/MS neg	1420	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+35637	cysteinylglycine	19246-18-5	278	HMDB00078	C01419	179.0485	439498	388	LC/MS pos early	2132	Glutathione Metabolism	Amino Acid
+35638	xylonate	73686-31-7	100001627	HMDB60256	C05411	292	6602431	NA	GC/MS	1722	Pentose Metabolism	Carbohydrate
+35649	sedoheptulose-7-phosphate	2646-35-7	100001628	HMDB01068	C05382	289.033	616	831	LC/MS neg	599.6	Pentose Phosphate Pathway	Carbohydrate
+35651	ectoine	96702-03-3	100001635	NA	C06231	143.08151	126041	3617	LC/MS pos early	1980	Chemical	Xenobiotics
+35665	N-acetyl-aspartyl-glutamate (NAAG)	3106-85-2	100001612	HMDB01067	C12270	303.08339	5255	43	LC/MS neg	575.3	Glutamate Metabolism	Amino Acid
+35718	dihomo-linolenate (20:3n3 or n6)	17046-59-2	100001739	HMDB02925	C03242	305.2486	5280581	NA	LC/MS neg	5596	Polyunsaturated Fatty Acid (n3 and n6)	Lipid
+35855	ribulose	488-84-6	100000147	HMDB00621	C00309	306.1	151261	NA	GC/MS	1662	Pentose Metabolism	Carbohydrate
+36103	p-cresol sulfate	3233-57-7	100001315	HMDB11635	C01468	187.00705	4615423	130	LC/MS neg	2890	Phenylalanine and Tyrosine Metabolism	Amino Acid
+36659	glycylisoleucine	19461-38-2	100001790	HMDB28844	NA	189.12337	88079	539	LC/MS pos early	3002	Dipeptide	Peptide
+36738	gamma-glutamylglutamate	1116-22-9	331	HMDB11737	C05282	277.10303	92865	400	LC/MS pos early	1775	Gamma-glutamyl Amino Acid	Peptide
+36746	2-hydroxy-3-methylvalerate	488-15-3	100001541	HMDB00317	NA	131.07136	164623	277	LC/MS neg	1800	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+36747	deoxycarnitine	6249-56-5	100001662	HMDB01161	C01181	146.11756	134	1257	LC/MS pos early	2052	Carnitine Metabolism	Lipid
+36751	N2-acetyllysine	1946-82-3	100001721	HMDB00446	C12989	189.12337	92907	NA	LC/MS pos	836	Lysine Metabolism	Amino Acid
+36752	N6-acetyllysine	692-04-6	100001734	HMDB00206	C02727	189.12337	92832	NA	LC/MS pos	1140	Lysine Metabolism	Amino Acid
+36808	dimethylarginine (SDMA + ADMA)	102783-24-4	100001810	HMDB01539	C03626	203.15026	123831	341	LC/MS pos early	2850	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+36811	2'-O-methylguanosine	2140-71-8	100001713	NA	C04545	298.1146	NA	NA	LC/MS pos	1943	"Purine Metabolism, Guanine containing"	Nucleotide
+36815	adenosine 2'-monophosphate (2'-AMP)	130-49-4	100001694	HMDB11617	C00946	346.0558	94136	2554	LC/MS neg	1497.7	"Purine Metabolism, Adenine containing"	Nucleotide
+36817	phenol red	143-74-8	100001724	NA	C12600	353.04891	4766	3642	LC/MS neg	3665.9	Chemical	Xenobiotics
+37063	gamma-glutamylalanine	5875-41-2	100001843	HMDB29142	NA	219.09755	440103	398	LC/MS pos early	1986	Gamma-glutamyl Amino Acid	Peptide
+37064	alanylglutamate	NA	100001895	NA	NA	219.09755	656476	NA	LC/MS pos	778	Dipeptide	Peptide
+37076	N-acetylserine	97-14-3	100001851	HMDB02931	NA	148.06044	65249	10	LC/MS pos early	811	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+37085	alanylthreonine	24032-50-6	100001886	NA	NA	189.08808	426318	NA	LC/MS neg	802	Dipeptide	Peptide
+37092	gamma-glutamyl-2-aminobutyrate	NA	100001502	NA	NA	233.1132	NA	NA	LC/MS pos	1580	Gamma-glutamyl Amino Acid	Peptide
+37106	alanylglutamine	39537-23-0	100001894	NA	NA	218.11354	542027	424	LC/MS pos early	1965	Dipeptide	Peptide
+37114	N6-methyladenosine	1867-73-8	213	HMDB04044	NA	282.11969	102175	2566	LC/MS pos early	2264	"Purine Metabolism, Adenine containing"	Nucleotide
+37137	"uridine-2',3'-cyclic monophosphate"	40632-52-8	75	HMDB11640	C02355	305.01803	439715	NA	LC/MS neg	1090	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+37139	"guanosine-2',3'-cyclic monophosphate"	15718-49-7	74	HMDB11629	C06194	346.05472	92823	NA	LC/MS pos	1640	"Purine Metabolism, Guanine containing"	Nucleotide
+37253	2-hydroxyglutarate	40951-21-1	100002070	HMDB00606	C02630	147.02989	43	1141	LC/MS polar	3352.8	"Fatty Acid, Dicarboxylate"	Lipid
+37431	N-methylproline	475-11-6	100001956	NA	NA	130.08626	557	349	LC/MS pos early	1335	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+37432	N-acetyl-beta-alanine	3025-95-4	100002102	NA	C01073	130.05096	76406	2643	LC/MS neg	773	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+37443	cysteine sulfinic acid	207121-48-0	100002113	HMDB00996	C00606	154.01686	109	320	LC/MS pos early	597	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+37455	glycerophosphoethanolamine	33049-08-0	100001620	HMDB00114	C01233	214.04859	123874	1440	LC/MS polar	3075	Phospholipid Metabolism	Lipid
+37461	aspartate-glutamate	1554998	100002093	NA	NA	261.07282	4130574	NA	LC/MS neg	595	Dipeptide	Peptide
+37465	"cytidine 2',3'-cyclic monophosphate"	15718-51-1	73	HMDB11691	C02354	306.04857	417654	2650	LC/MS pos early	769	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+37467	"adenosine-2',3'-cyclic monophosphate"	37063-35-7	72	HMDB11616	C02353	330.0598	2024	NA	LC/MS pos	1536.9	"Purine Metabolism, Adenine containing"	Nucleotide
+37468	penicillin G	69-57-8	100002155	HMDB15186	C05551	333.09145	5904	3430	LC/MS neg	3855	Drug	Xenobiotics
+37483	2-methylcitrate	6061-96-7	90	HMDB00379	C02225	205.03538	439681	NA	LC/MS neg	575	TCA Cycle	Energy
+37496	N-acetylputrescine	18233-70-0	192	HMDB02064	C02714	131.11789	122356	374	LC/MS pos early	2230	Polyamine Metabolism	Amino Acid
+37506	palmitoyl sphingomyelin (d18:1/16:0)	6254-89-3	100002107	NA	NA	703.57485	9939941	1725	LC/MS pos late	2168	Sphingolipid Metabolism	Lipid
+37752	13-HODE + 9-HODE	NA	100002196	NA	NA	295.22825	43013	NA	LC/MS neg	5275	"Fatty Acid, Monohydroxy"	Lipid
+38101	tetraethylene glycol	112-60-7	100002315	NA	NA	195.1227	8200	NA	LC/MS pos	2165	Chemical	Xenobiotics
+38133	hexaethylene glycol	2615-15-8	100002317	NA	NA	283.17513	17472	NA	LC/MS pos	2662	Chemical	Xenobiotics
+38154	heptaethylene glycol	5617-32-3	100002318	NA	NA	327.20135	79718	NA	LC/MS pos	2865	Chemical	Xenobiotics
+38155	octaethylene glycol	5117-19-1	100002319	NA	NA	371.22756	78798	NA	LC/MS pos	3056	Chemical	Xenobiotics
+38158	pentaethylene glycol	4792-15-8	100002316	NA	NA	239.14892	62551	NA	LC/MS pos	2454	Chemical	Xenobiotics
+38178	cis-4-decenoyl carnitine	98930-66-6	100002259	NA	NA	314.23259	NA	NA	LC/MS pos	4468	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+38293	13-methylmyristic acid	2485-71-4	100002344	NA	NA	241.2173	151014	NA	LC/MS neg	5499	"Fatty Acid, Branched"	Lipid
+38314	dexpanthenol	16485-10-2	100002376	HMDB04231	D03726	204.12413	4678	NA	LC/MS neg	2259.1	Chemical	Xenobiotics
+38339	benzoyl coenzyme A	102185-37-5	100002486	NA	C00512	870.13414	9543169	NA	LC/MS neg	2850	Benzoate Metabolism	Xenobiotics
+38679	alanylphenylalanine	3061-90-3	100002700	NA	NA	235.10881	2080	NA	LC/MS neg	2550	Dipeptide	Peptide
+38768	15-methylpalmitate (isobar with 2-methylpalmitate)	NA	100002945	NA	NA	269.24868	17903417	NA	LC/MS neg	5695	"Fatty Acid, Branched"	Lipid
+38783	"glutathione, oxidized (GSSG)"	103239-24-3	448	HMDB03337	C00127	307.08326	65359	383	LC/MS pos early	2667	Glutathione Metabolism	Amino Acid
+39583	mevalonate	96949-03-0	30	HMDB00227	C02104	147.06628	439230	1764	LC/MS neg	818	Mevalonate Metabolism	Lipid
+39592	S-methylcysteine	1187-84-4	100002749	HMDB02108	NA	119.01613	24417	NA	LC/MS pos	848	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+396	glutarate (pentanedioate)	110-94-1	339	HMDB00661	C00489	131.03498	743	84	LC/MS polar	2900	Lysine Metabolism	Amino Acid
+39764	uridine-3'-monophosphate (3'-UMP)	35170-0-7;35170-03-7	106	NA	C01368	323.02859	101543	NA	LC/MS polar	3800	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+39786	guanosine 3'-monophosphate (3'-GMP)	117-68-0	100002704	NA	NA	364.06528	3522	2588	LC/MS pos early	837	"Purine Metabolism, Guanine containing"	Nucleotide
+39872	streptomycin	3810-74-0	100002993	NA	NA	300.6454	5999	3266	LC/MS pos early	3328	Drug	Xenobiotics
+39892	uridine monophosphate (5' or 3')	58-97-9	100003366	HMDB00288	NA	325.04315	6030	NA	LC/MS pos	1100	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+39994	valylleucine	22906-55-4	100003210	NA	NA	231.17032	352039	743	LC/MS pos early	3138	Dipeptide	Peptide
+40008	isoleucylglycine	868-28-0	100003169	NA	NA	189.12337	342532	574	LC/MS pos early	2719	Dipeptide	Peptide
+40012	isoleucylserine	6403-14-1	100003174	NA	NA	219.13394	7021816	NA	LC/MS pos	1487	Dipeptide	Peptide
+40017	phenylalanylserine	16053-39-7	100003252	NA	NA	253.11829	9859812	NA	LC/MS pos	1815	Dipeptide	Peptide
+40020	lysylleucine	7369-79-1	100003196	NA	NA	260.19687	4682588	NA	LC/MS pos	1561	Dipeptide	Peptide
+40045	leucylglycine	686-50-0	100003185	NA	NA	189.12337	79070	592	LC/MS pos early	2778	Dipeptide	Peptide
+40048	leucylserine	1574172	100003190	NA	NA	219.13394	3621685	NA	LC/MS pos	1530	Dipeptide	Peptide
+40049	isoleucylvaline	41017-96-3	100003178	NA	NA	231.17032	5246011;435949	NA	LC/MS pos	2236	Dipeptide	Peptide
+40054	serylphenyalanine	NA	100003253	NA	NA	253.11829	NA	NA	LC/MS pos	2351	Dipeptide	Peptide
+40066	serylleucine	6665-16-3	100003202	NA	NA	219.13394	7015695	NA	LC/MS pos	2109	Dipeptide	Peptide
+40068	aspartylleucine	3062-14-4	100003158	NA	NA	247.12885	332962	NA	LC/MS pos	2316	Dipeptide	Peptide
+40097	X - 17299	NA	NA	NA	NA	229.15433	NA	NA	LC/MS pos	1282	NA	NA
+40406	trimethylamine N-oxide	1184-78-7	100003397	HMDB00925	C01104	76.07569	1145	1441	LC/MS pos early	2100	Phospholipid Metabolism	Lipid
+40410	cis-urocanate	7699-35-6	100003425	NA	NA	139.05021	1549103	62	LC/MS pos early	2406	Histidine Metabolism	Amino Acid
+40469	N1-Methyl-2-pyridone-5-carboxamide	701-44-0	100001468	HMDB04193	C05842	151.0513	69698	2696	LC/MS neg	1668	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+40475	valylglycine	686-43-1	100003641	NA	NA	175.10772	136487	740	LC/MS pos early	2444	Dipeptide	Peptide
+40703	prolylglycine	2578-57-6	100003674	NA	NA	173.09207	7408076;6426709	661	LC/MS pos early	2136	Dipeptide	Peptide
+40705	prolylalanine	6422-36-2	100003668	NA	NA	187.10772	418041	NA	LC/MS pos	888	Dipeptide	Peptide
+40730	imidazole propionate	1074-59-5	100003434	HMDB02271	NA	141.06586	70630	64	LC/MS pos early	2263	Histidine Metabolism	Amino Acid
+41370	phenylalanylglycine	721-90-4	100003588	NA	NA	223.10772	98207	644	LC/MS pos early	2898	Dipeptide	Peptide
+41374	phenylalanylalanine	3918-87-4	100003589	NA	NA	237.12337	6993123;5488196	640	LC/MS pos early	2909	Dipeptide	Peptide
+41381	prolylglutamate	67644-00-2	100003673	NA	NA	245.1132	3563697	NA	LC/MS pos	980	Dipeptide	Peptide
+41387	threonylglutamine	96337-79-0	100003539	NA	NA	248.1241	3618482	NA	LC/MS pos	742	Dipeptide	Peptide
+41393	phenylalanylvaline	3918-90-9	100003590	NA	NA	265.15467	4096934	NA	LC/MS pos	2624	Dipeptide	Peptide
+41995	threonylserine	61043-86-5	100003533	NA	NA	205.08299	4578035	NA	LC/MS neg	706	Dipeptide	Peptide
+42028	asparagylvaline	145314-87-0	100003569	NA	NA	232.12919	7019993	NA	LC/MS pos	1539	Dipeptide	Peptide
+42058	serylvaline	51782-06-0	100003522	NA	NA	205.11829	7020159	NA	LC/MS pos	1514	Dipeptide	Peptide
+42077	seryltyrosine	21435-27-8	100003525	NA	NA	269.1132	4575735	NA	LC/MS pos	1735	Dipeptide	Peptide
+42079	valylglutamine	42854-54-6	100003640	NA	NA	246.14484	5253209	739	LC/MS pos early	2295	Dipeptide	Peptide
+42109	phosphate	7664-38-2	461	HMDB01429	C00009	96.96962	1061	1010	LC/MS neg	608	Oxidative Phosphorylation	Energy
+42374	2-aminobutyrate	1492-24-6	1128	HMDB00650	C02261	104.07061	439691	310	LC/MS pos early	2059	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+42382	S-adenosylhomocysteine (SAH)	979-92-0	197	HMDB00939	C00021	383.11431	439155	303	LC/MS neg	1832.4	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+42420	erythronate*	88759-55-1	100001320	HMDB00613	NA	135.02989	2781043	980	LC/MS polar	2186	Aminosugar Metabolism	Carbohydrate
+42582	pyruvate	127-17-3	823	HMDB00243	C00022	87.00877	1060	819	LC/MS neg	732.4	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+42976	asparagylisoleucine	NA	100003155	NA	NA	246.14484	NA	NA	LC/MS pos	2075	Dipeptide	Peptide
+42980	asparagylleucine	NA	100003156	NA	NA	246.14484	NA	NA	LC/MS pos	2175	Dipeptide	Peptide
+42988	glutamine-isoleucine	NA	100003159	NA	NA	260.16049	NA	NA	LC/MS pos	2085	Dipeptide	Peptide
+43023	pterin	22363-60-4	100004216	HMDB00802	C00715	164.05669	73000	NA	LC/MS pos	1545	Pterin Metabolism	Cofactors and Vitamins
+43249	N-delta-acetylornithine	NA	100004523	NA	NA	173.09316	9920500	345	LC/MS neg	858	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+43255	N-acetyl-1-methylhistidine*	NA	100004299	NA	NA	212.1028	NA	59	LC/MS pos early	2100	Histidine Metabolism	Amino Acid
+43256	N-acetyl-3-methylhistidine*	37841-04-6	100002204	NA	NA	212.10297	193270	58	LC/MS pos early	2056	Histidine Metabolism	Amino Acid
+43264	3-hydroxybutyrylcarnitine (1)	NA	100003926	HMDB13127	NA	248.14925	53481617	1239	LC/MS pos early	2400	Fatty Acid Metabolism(Acyl Carnitine)	Lipid
+43374	indolin-2-one	59-48-3	100004318	NA	C12312	134.06004	321710	NA	LC/MS pos	3386	Food Component/Plant	Xenobiotics
+43392	o-Tyrosine	2370-61-8	100004290	NA	NA	180.06661	91482	163	LC/MS neg	1798.2	Phenylalanine and Tyrosine Metabolism	Amino Acid
+43400	2-piperidinone	675-20-7	100004295	NA	NA	100.07569	12665	2870	LC/MS pos early	1675	Food Component/Plant	Xenobiotics
+43424	dimethyl sulfone	67-71-0	100004284	HMDB04983	C11142	95.01613	6213	3611	LC/MS pos early	832	Chemical	Xenobiotics
+43522	cyclo(pro-tyr)	967564	100004363	NA	NA	261.12337	NA	NA	LC/MS pos	2575	Dipeptide	Peptide
+43530	N-acetyl-cadaverine	32343-73-0	100002249	NA	NA	145.13354	NA	NA	LC/MS pos	1245	Lysine Metabolism	Amino Acid
+43586	N-monomethylarginine	53308-83-1	100004488	HMDB29416	C03884	189.13461	132862	354	LC/MS pos early	2845	Urea cycle; Arginine and Proline Metabolism	Amino Acid
+43787	cyclo(L-phe-D-pro)*	NA	100004636	NA	NA	245.12846	6992198	NA	LC/MS pos	3550	Dipeptide	Peptide
+43802	guanidinoacetate	352-97-6	344	HMDB00128	C00581	118.06111	763	364	LC/MS pos early	1937	Creatine Metabolism	Amino Acid
+43829	gamma-glutamylvaline	2746-34-1	100001126	HMDB11172	NA	247.12885	7015683	412	LC/MS pos early	2700	Gamma-glutamyl Amino Acid	Peptide
+43840	acetyl CoA	102029-73-2	1830	HMDB01206	C00024	403.55561	444493	NA	LC/MS neg	1691	Fatty Acid Metabolism	Lipid
+43847	glycerol 3-phosphate	29849-82-9	100000258	HMDB00126	C00093	173.02095	754	1679	LC/MS pos early	580	Glycerolipid Metabolism	Lipid
+443	aspartate	56-84-8	234	HMDB00191	C00049	134.04479	5960	28	LC/MS pos early	1165	Alanine and Aspartate Metabolism	Amino Acid
+44526	3-methyl-2-oxobutyrate	3715-29-5	100000936	HMDB00019	C00141	115.04006	49	283	LC/MS neg	1465	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+44656	isovalerate	503-74-2	100000708	HMDB00718	C08262	101.0608	10430	245	LC/MS neg	1564	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+44872	gamma-glutamylmethionine	17663-87-5	100001313	HMDB29155	NA	279.10092	7009567	407	LC/MS pos early	2640	Gamma-glutamyl Amino Acid	Peptide
+44873	3-methylcrotonyl CoA	108347-83-7	120	HMDB01493	C03069	423.57126	439869	NA	LC/MS neg	2623.1	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+44875	cyclo(L-phe-L-pro)	NA	100001927	NA	C11847	245.12846	9837725;443440	NA	LC/MS pos	3644	Dipeptide	Peptide
+45095	2-methylbutyrylcarnitine (C5)	31023-25-3	100001509	HMDB00378	NA	246.16999	6426901	272	LC/MS pos early	3035	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+45428	N-acetylmethionine sulfoxide	NA	100005463	NA	NA	206.04925	193368	NA	LC/MS neg	942	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+45970	1-palmitoylglycerophosphoglycerol*	NA	100005717	NA	NA	483.27284	3300276	NA	LC/MS neg	5570	Lysolipid	Lipid
+45982	2-palmitoylglycerophosphoglycerol*	NA	100005718	NA	NA	483.27284	NA	NA	LC/MS neg	5530	Lysolipid	Lipid
+46142	mannitol/sorbitol	NA	100001740	HMDB00247	C01507	181.07176	5780	912	LC/MS polar	2260	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+46146	4-methylcatechol sulfate	NA	100004111	NA	NA	203.00196	NA	2815	LC/MS neg	2665	Benzoate Metabolism	Xenobiotics
+46173	aconitate [cis or trans]	NA	100001359	NA	NA	173.00916	NA	NA	LC/MS neg	580	TCA Cycle	Energy
+46225	pyroglutamine*	2353-44-8	100001540	NA	NA	129.06586	134508	50	LC/MS pos early	1900	Glutamate Metabolism	Amino Acid
+46260	X - 11564	NA	NA	NA	NA	177.023	NA	NA	LC/MS neg	1157.1	NA	NA
+46261	X - 19438	NA	NA	NA	NA	217.07208	NA	NA	LC/MS neg	1209	NA	NA
+46295	X - 21286	NA	0	NA	NA	164.0355	NA	NA	LC/MS neg	1550	NA	NA
+46315	X - 16083	NA	NA	NA	NA	309.11947	NA	NA	LC/MS neg	1484	NA	NA
+46322	coenzyme A	85-61-0;18439-24-2	270	HMDB01423	C00010	382.55033	317	NA	LC/MS neg	1448	Pantothenate and CoA Metabolism	Cofactors and Vitamins
+46387	X - 21342	NA	0	NA	NA	385.16642	NA	NA	LC/MS neg	5149	NA	NA
+46398	X - 21353	NA	0	NA	NA	239.1655	NA	NA	LC/MS neg	5196	NA	NA
+46407	X - 21362	NA	NA	NA	NA	135.04526	NA	NA	LC/MS neg	5354	NA	NA
+46410	X - 21365	NA	NA	NA	NA	160.13326	NA	NA	LC/MS pos early	2195	NA	NA
+46418	X - 21373	NA	0	NA	NA	387.17978	NA	NA	LC/MS pos	5113	NA	NA
+46454	X - 16579	NA	NA	NA	NA	129.05238	NA	NA	LC/MS pos	1457	NA	NA
+46463	X - 14364	NA	NA	NA	NA	275.10387	NA	NA	LC/MS neg	2590	NA	NA
+46473	X - 15497	NA	NA	NA	NA	236.09303	NA	NA	LC/MS neg	2843	NA	NA
+46489	X - 21444	NA	NA	NA	NA	300.06425	NA	NA	LC/MS neg	3040.2	NA	NA
+46502	X - 21457	NA	0	NA	NA	127.05	NA	NA	LC/MS pos	1815	NA	NA
+46505	X - 21460	NA	0	NA	NA	173.07841	NA	NA	LC/MS pos	1833	NA	NA
+46506	X - 21461	NA	NA	NA	NA	162.05833	NA	NA	LC/MS pos	1832	NA	NA
+46537	alpha-hydroxyisovalerate	600-37-3	100001300	HMDB00407	NA	117.05571	99823	258	LC/MS polar	1052	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+46596	X - 11407	NA	NA	NA	NA	186.11303	NA	NA	LC/MS neg	2108	NA	NA
+46597	X - 11429	NA	NA	NA	NA	245.07728	NA	NA	LC/MS neg	1151	NA	NA
+46620	X - 12462	NA	NA	NA	NA	148.04271	NA	NA	LC/MS pos	1275	NA	NA
+46622	X - 12792	NA	NA	NA	NA	134.02694	NA	NA	LC/MS pos	832	NA	NA
+46624	X - 12798	NA	NA	NA	NA	240.10168	NA	NA	LC/MS pos	1870	NA	NA
+46632	X - 14056	NA	NA	NA	NA	192.03254	NA	NA	LC/MS pos early	810	NA	NA
+46643	X - 13529	NA	NA	NA	NA	188.09284	NA	NA	LC/MS neg	2011	NA	NA
+46648	X - 13891	NA	NA	NA	NA	227.12899	NA	NA	LC/MS neg	2709	NA	NA
+46649	X - 14568	NA	NA	NA	NA	132.92067	NA	NA	LC/MS neg	661	NA	NA
+46650	X - 21583	NA	0	NA	NA	92.92813	NA	NA	LC/MS neg	657	NA	NA
+46657	X - 14939	NA	NA	NA	NA	165.01953	NA	NA	LC/MS neg	4353	NA	NA
+46658	X - 15220	NA	NA	NA	NA	274.11199	NA	NA	LC/MS neg	2662	NA	NA
+46661	X - 15245	NA	NA	NA	NA	233.03033	NA	NA	LC/MS neg	568	NA	NA
+46663	X - 11334	NA	NA	NA	NA	259.0921	NA	NA	LC/MS pos early	2017	NA	NA
+46679	X - 11945	NA	NA	NA	NA	283.10343	NA	NA	LC/MS pos	1880	NA	NA
+46684	X - 12093	NA	NA	NA	NA	203.13875	NA	NA	LC/MS pos	1037	NA	NA
+46685	X - 16964	NA	NA	NA	NA	174.05948	NA	NA	LC/MS neg	3034	NA	NA
+46687	X - 18779	NA	NA	NA	NA	209.04535	NA	NA	LC/MS neg	1969	NA	NA
+46695	X - 18913	NA	NA	NA	NA	185.11815	NA	NA	LC/MS neg	4538	NA	NA
+46708	X - 19437	NA	NA	NA	NA	397.14725	NA	NA	LC/MS neg	1145	NA	NA
+46734	cysteine-glutathione disulfide	13081-14-6	100001437	HMDB00656	NA	427.09519	4247235	NA	LC/MS pos	824	Glutathione Metabolism	Amino Acid
+46738	X - 21664	NA	0	NA	NA	144.04552	NA	NA	LC/MS neg	3692	NA	NA
+46894	X - 12748	NA	NA	NA	NA	320.06242	NA	NA	LC/MS neg	539	NA	NA
+46898	X - 21729	NA	0	NA	NA	87.0453	NA	NA	LC/MS neg	1024	NA	NA
+46928	X - 21755	NA	0	NA	NA	319.20835	NA	NA	LC/MS pos	1055	NA	NA
+46929	X - 21756	NA	0	NA	NA	247.09184	NA	NA	LC/MS pos	1142	NA	NA
+46930	X - 21757	NA	0	NA	NA	289.11504	NA	NA	LC/MS pos	1255	NA	NA
+46940	X - 15484	NA	NA	NA	NA	271.10429	NA	NA	LC/MS pos	2492	NA	NA
+46941	X - 15382	NA	NA	NA	NA	271.10432	NA	NA	LC/MS pos	2535	NA	NA
+46942	X - 21769	NA	0	NA	NA	250.01283	NA	NA	LC/MS pos	2555	NA	NA
+46943	X - 15375	NA	NA	NA	NA	328.12558	NA	NA	LC/MS pos	2576	NA	NA
+46944	epsilon-caprolactam	NA	NA	NA	NA	114.0913	NA	3264	LC/MS pos early	2075	Bacterial/Fungal	Xenobiotics
+46948	X - 21775	NA	0	NA	NA	248.03354	NA	NA	LC/MS pos	2824	NA	NA
+46957	gulonic acid*	20246-53-1	100001586	NA	NA	195.05102	9794176	2715	LC/MS polar	2750	Ascorbate and Aldarate Metabolism	Cofactors and Vitamins
+46960	sulfate*	14808-79-8	100002528	HMDB01448	C00059	96.9601	1118	3553	LC/MS neg	616	Chemical	Xenobiotics
+46961	X - 21785	NA	NA	NA	NA	189.04118	NA	NA	LC/MS neg	765	NA	NA
+46972	X - 21796	NA	0	NA	NA	138.05655	NA	NA	LC/MS neg	1625	NA	NA
+47072	X - 21892	NA	NA	NA	NA	131.07125	NA	NA	LC/MS neg	1740	NA	NA
+47073	X - 21893	NA	NA	NA	NA	115.07545	NA	NA	LC/MS pos	3091	NA	NA
+47188	X - 20718	NA	NA	NA	NA	338.17259	NA	NA	LC/MS neg	2457	NA	NA
+47191	X - 20686	NA	NA	NA	NA	362.14776	NA	NA	LC/MS neg	1567	NA	NA
+47199	X - 12425	NA	NA	NA	NA	307.15127	NA	NA	LC/MS neg	743	NA	NA
+47201	X - 12700	NA	NA	NA	NA	227.11525	NA	NA	LC/MS neg	1054	NA	NA
+47203	X - 13007	NA	NA	NA	NA	329.2338	NA	NA	LC/MS neg	4597	NA	NA
+47217	X - 14141	NA	NA	NA	NA	259.13002	NA	NA	LC/MS neg	1335	NA	NA
+47218	X - 14697	NA	NA	NA	NA	259.13001	NA	NA	LC/MS neg	1276	NA	NA
+47219	X - 14196	NA	NA	NA	NA	291.09898	NA	NA	LC/MS neg	1717	NA	NA
+47220	X - 14213	NA	NA	NA	NA	259.07585	NA	NA	LC/MS neg	1795	NA	NA
+47223	X - 14254	NA	NA	NA	NA	318.16741	NA	NA	LC/MS neg	2015	NA	NA
+47225	X - 14314	NA	NA	NA	NA	241.11956	NA	NA	LC/MS neg	2273	NA	NA
+47226	X - 14302	NA	NA	NA	NA	241.11958	NA	NA	LC/MS neg	2211	NA	NA
+47247	X - 14502	NA	NA	NA	NA	405.22493	NA	NA	LC/MS neg	3908	NA	NA
+47250	X - 14625	NA	NA	NA	NA	308.09903	NA	NA	LC/MS neg	734	NA	NA
+47258	X - 14961	NA	NA	NA	NA	149.04576	NA	NA	LC/MS neg	677	NA	NA
+47270	X - 15904	NA	NA	NA	NA	344.18315	NA	NA	LC/MS neg	2700	NA	NA
+47274	X - 16283	NA	NA	NA	NA	192.06689	NA	NA	LC/MS neg	2322	NA	NA
+47279	X - 17246	NA	NA	NA	NA	362.05116	NA	NA	LC/MS neg	1241	NA	NA
+47281	X - 22035	NA	NA	NA	NA	225.08834	NA	NA	LC/MS neg	1551	NA	NA
+47284	X - 17709	NA	NA	NA	NA	261.10922	NA	NA	LC/MS neg	1023	NA	NA
+47290	X - 17805	NA	NA	NA	NA	559.23829	NA	NA	LC/MS neg	1341	NA	NA
+47294	X - 17828	NA	NA	NA	NA	378.13119	NA	NA	LC/MS neg	1700	NA	NA
+47296	X - 17842	NA	NA	NA	NA	284.12541	NA	NA	LC/MS neg	1830	NA	NA
+47342	X - 18345	NA	NA	NA	NA	245.11447	NA	NA	LC/MS neg	1400	NA	NA
+47343	X - 18347	NA	NA	NA	NA	332.14677	NA	NA	LC/MS neg	1415	NA	NA
+47344	X - 18349	NA	NA	NA	NA	379.17261	NA	NA	LC/MS neg	1821	NA	NA
+47345	X - 22099	NA	NA	NA	NA	379.17266	NA	NA	LC/MS neg	1754	NA	NA
+47347	X - 18889	NA	NA	NA	NA	202.1087	NA	NA	LC/MS neg	2633	NA	NA
+47348	X - 22102	NA	NA	NA	NA	202.10874	NA	NA	LC/MS neg	2603	NA	NA
+47351	X - 19197	NA	NA	NA	NA	298.14126	NA	NA	LC/MS neg	2387	NA	NA
+47352	X - 19220	NA	NA	NA	NA	423.1791	NA	NA	LC/MS neg	3200	NA	NA
+47357	X - 19746	NA	NA	NA	NA	379.17285	NA	NA	LC/MS neg	2107	NA	NA
+47358	X - 19751	NA	NA	NA	NA	363.17786	NA	NA	LC/MS neg	2321	NA	NA
+47371	X - 19921	NA	NA	NA	NA	421.1832	NA	NA	LC/MS neg	1561	NA	NA
+47375	X - 19925	NA	NA	NA	NA	392.14679	NA	NA	LC/MS neg	1894	NA	NA
+47377	X - 19928	NA	NA	NA	NA	420.19923	NA	NA	LC/MS neg	2161	NA	NA
+47381	X - 19932	NA	NA	NA	NA	314.11502	NA	NA	LC/MS neg	2566	NA	NA
+47390	X - 12015	NA	NA	NA	NA	216.08804	NA	NA	LC/MS neg	1296	NA	NA
+47391	X - 22145	NA	NA	NA	NA	257.07836	NA	NA	LC/MS neg	1844	NA	NA
+47409	X - 22154	NA	NA	NA	NA	281.1127	NA	NA	LC/MS pos	2675	NA	NA
+47410	X - 22155	NA	NA	NA	NA	281.11259	NA	NA	LC/MS pos	2763	NA	NA
+47423	X - 11612	NA	NA	NA	NA	285.08237	NA	NA	LC/MS pos	1841	NA	NA
+47435	X - 12565	NA	NA	NA	NA	254.1611	NA	NA	LC/MS pos	1748	NA	NA
+47436	X - 17062	NA	NA	NA	NA	254.16079	NA	NA	LC/MS pos	1661	NA	NA
+47437	X - 12680	NA	NA	NA	NA	229.12925	NA	NA	LC/MS pos early	2900	NA	NA
+47439	X - 13507	NA	NA	NA	NA	158.09251	NA	NA	LC/MS pos early	2475	NA	NA
+47442	X - 13871	NA	NA	NA	NA	192.0324	NA	NA	LC/MS pos early	860	NA	NA
+47443	X - 14097	NA	NA	NA	NA	258.14474	NA	NA	LC/MS pos early	2027	NA	NA
+47444	X - 14113	NA	NA	NA	NA	286.15088	NA	NA	LC/MS pos	1272	NA	NA
+47446	X - 14155	NA	NA	NA	NA	226.15488	NA	NA	LC/MS pos	1608	NA	NA
+47447	X - 14153	NA	NA	NA	NA	226.15488	NA	NA	LC/MS pos	1572	NA	NA
+47449	X - 14180	NA	NA	NA	NA	228.17036	NA	NA	LC/MS pos	1737	NA	NA
+47452	X - 14196	NA	NA	NA	NA	293.11296	NA	NA	LC/MS pos	2502	NA	NA
+47458	X - 14228	NA	NA	NA	NA	227.10261	NA	NA	LC/MS pos	1994	NA	NA
+47461	X - 14247	NA	NA	NA	NA	276.17021	NA	NA	LC/MS pos	2091	NA	NA
+47466	X - 14255	NA	NA	NA	NA	261.1441	NA	NA	LC/MS pos	2124	NA	NA
+47467	X - 14272	NA	NA	NA	NA	261.14445	NA	NA	LC/MS pos	2266	NA	NA
+47473	X - 14277	NA	NA	NA	NA	219.13377	NA	NA	LC/MS pos	2342	NA	NA
+47475	X - 14318	NA	NA	NA	NA	247.12858	NA	NA	LC/MS pos	2516	NA	NA
+47476	X - 14352	NA	NA	NA	NA	247.12859	NA	NA	LC/MS pos	2640	NA	NA
+47495	X - 14427	NA	NA	NA	NA	243.13374	NA	NA	LC/MS pos	3105	NA	NA
+47496	X - 14314	NA	NA	NA	NA	243.13385	NA	NA	LC/MS pos	3239	NA	NA
+47522	X - 15196	NA	NA	NA	NA	355.19695	NA	NA	LC/MS pos	1665	NA	NA
+47539	X - 16060	NA	NA	NA	NA	241.0732	NA	NA	LC/MS neg	4008	NA	NA
+47545	X - 17009	NA	NA	NA	NA	267.07338	NA	NA	LC/MS neg	1792	NA	NA
+47561	X - 19561	NA	NA	NA	NA	252.08775	NA	NA	LC/MS neg	1859	NA	NA
+47577	X - 19375	NA	NA	NA	NA	414.21228	NA	NA	LC/MS neg	1971	NA	NA
+47581	X - 10457	NA	NA	NA	NA	261.14365	NA	NA	LC/MS pos	1528	NA	NA
+47588	X - 18022	NA	NA	NA	NA	355.16066	NA	NA	LC/MS pos	1859	NA	NA
+47591	X - 18035	NA	NA	NA	NA	359.22848	NA	NA	LC/MS pos	1937	NA	NA
+47607	X - 11677	NA	NA	NA	NA	267.0969	NA	NA	LC/MS pos early	1900	NA	NA
+47616	X - 13504	NA	NA	NA	NA	228.09734	NA	NA	LC/MS pos	974	NA	NA
+47619	X - 15136	NA	NA	NA	NA	243.08701	NA	NA	LC/MS pos early	3074	NA	NA
+47620	X - 15161	NA	NA	NA	NA	206.04783	NA	NA	LC/MS pos	1494	NA	NA
+47623	X - 15472	NA	NA	NA	NA	204.12266	NA	NA	LC/MS pos	3651	NA	NA
+47628	X - 15562	NA	NA	NA	NA	470.20197	NA	NA	LC/MS pos	4659	NA	NA
+47631	X - 15563	NA	NA	NA	NA	490.17069	NA	NA	LC/MS pos	4721	NA	NA
+47645	X - 15678	NA	NA	NA	NA	249.05357	NA	NA	LC/MS pos	1762	NA	NA
+47652	X - 11549	NA	NA	NA	NA	339.25461	NA	NA	LC/MS neg	5100	NA	NA
+47678	X - 22414	NA	NA	NA	NA	162.05831	NA	NA	LC/MS pos	1802	NA	NA
+47680	X - 10445	NA	NA	NA	NA	250.09295	NA	NA	LC/MS pos	1962	NA	NA
+47684	X - 11979	NA	NA	NA	NA	251.07697	NA	NA	LC/MS pos	2082	NA	NA
+47687	X - 12100	NA	NA	NA	NA	221.09193	NA	NA	LC/MS pos early	2650	NA	NA
+47688	X - 12108	NA	NA	NA	NA	160.10801	NA	NA	LC/MS pos	1488	NA	NA
+47698	X - 12122	NA	NA	NA	NA	276.1437	NA	NA	LC/MS pos	1801	NA	NA
+47706	X - 12199	NA	NA	NA	NA	263.1022	NA	NA	LC/MS pos	3017	NA	NA
+47709	X - 12339	NA	NA	NA	NA	174.08724	NA	NA	LC/MS pos early	1792	NA	NA
+47715	X - 12681	NA	NA	NA	NA	176.1028	NA	NA	LC/MS pos early	2200	NA	NA
+47768	X - 22504	NA	0	NA	NA	146.02813	NA	NA	LC/MS polar	1222	NA	NA
+47789	X - 13529	NA	NA	NA	NA	190.10721	NA	NA	LC/MS pos	3069	NA	NA
+47790	X - 13684	NA	NA	NA	NA	242.01472	NA	NA	LC/MS pos early	1642	NA	NA
+47796	X - 17304	NA	NA	NA	NA	303.07046	NA	NA	LC/MS pos early	1525	NA	NA
+47798	X - 15192	NA	NA	NA	NA	188.17559	NA	NA	LC/MS pos	689	NA	NA
+47799	X - 15477	NA	NA	NA	NA	365.23154	NA	NA	LC/MS pos	4402	NA	NA
+47800	X - 15666	NA	NA	NA	NA	221.09172	NA	NA	LC/MS pos early	2755	NA	NA
+47801	X - 16071	NA	NA	NA	NA	146.05997	NA	NA	LC/MS pos	3619	NA	NA
+47827	X - 17717	NA	NA	NA	NA	304.14991	NA	NA	LC/MS pos	2598	NA	NA
+47838	X - 18371	NA	NA	NA	NA	265.08465	NA	NA	LC/MS pos	1876	NA	NA
+47839	X - 20587	NA	NA	NA	NA	279.13346	NA	NA	LC/MS pos early	2873	NA	NA
+47858	X - 22590	NA	NA	NA	NA	304.14971	NA	NA	LC/MS pos	2522	NA	NA
+47890	7-hydroxycholesterol (alpha or beta)	NA	100005999	NA	NA	367.33594	NA	1816	LC/MS pos late	1930	Sterol	Lipid
+47892	alpha-lipoate	1077-28-7	100000141	HMDB01451	C00725	205.03624	864	2762	LC/MS neg	3651	Lipoate Metabolism	Cofactors and Vitamins
+47898	1-pentadecanoylglycerol (1-monopentadecanoin)	NA	100001431	NA	NA	241.21728	190750	NA	LC/MS neg	6200	Monoacylglycerol	Lipid
+47912	X - 12257	NA	NA	NA	NA	269.06683	NA	NA	LC/MS neg	1774	NA	NA
+47926	X - 12695	NA	NA	NA	NA	144.03056	NA	NA	LC/MS neg	712	NA	NA
+47954	X - 12879	NA	NA	NA	NA	147.06658	NA	NA	LC/MS neg	1115	NA	NA
+47996	X - 17345	NA	NA	NA	NA	215.10412	NA	NA	LC/MS neg	1557	NA	NA
+48076	X - 22771	NA	0	NA	NA	160.0441	NA	NA	LC/MS neg	2220	NA	NA
+48080	X - 22775	NA	0	NA	NA	154.99084	NA	NA	LC/MS neg	2980	NA	NA
+48118	mevalonolactone	674-26-0	100000772	HMDB06024	NA	131.07027	10428	1769	LC/MS pos early	1375	Mevalonate Metabolism	Lipid
+48130	N6-succinyladenosine	4542-23-8	100001664	HMDB00912	NA	384.11499	NA	2584	LC/MS pos early	1930	"Purine Metabolism, Adenine containing"	Nucleotide
+48152	glucose	50-99-7	572	HMDB00122	C00031	225.06159	79025	803	LC/MS polar	2342	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+48159	X - 10358	NA	NA	NA	NA	165.04047	NA	NA	LC/MS polar	2372	NA	NA
+48168	X - 22822	NA	NA	NA	NA	195.05116	NA	NA	LC/MS polar	2677	NA	NA
+48189	leucylglutamine*	NA	100003183	NA	NA	260.1605	4305457	NA	LC/MS pos	1578	Dipeptide	Peptide
+48195	fructose	57-48-7	878	HMDB00660	C00095	225.06159	5984	907	LC/MS polar	2022.2	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+48199	X - 22842	NA	NA	NA	NA	161.0091	NA	NA	LC/MS polar	1238	NA	NA
+48217	X - 12695	NA	NA	NA	NA	144.03016	NA	NA	LC/MS polar	1831	NA	NA
+48255	arabonate/xylonate	NA	100006115	NA	NA	165.04046	NA	835	LC/MS polar	2664.6	Pentose Phosphate Pathway	Carbohydrate
+48289	X - 12792	NA	NA	NA	NA	132.01235	NA	NA	LC/MS polar	1441	NA	NA
+48306	X - 22937	NA	NA	NA	NA	182.03184	NA	NA	LC/MS polar	2029	NA	NA
+48321	X - 22952	NA	NA	NA	NA	147.06626	NA	NA	LC/MS polar	1100	NA	NA
+48404	dimethyl sulfoxide (DMSO)*	67-68-5	100001549	HMDB02151	C11143	157.03515	679	NA	LC/MS pos	1034.8	Chemical	Xenobiotics
+48408	tyramine O-sulfate	30223-92-8	100006092	HMDB06409	NA	216.0336	153005	189	LC/MS neg	1565	Phenylalanine and Tyrosine Metabolism	Amino Acid
+48428	pyrraline	74509-14-1	100001767	NA	NA	255.13394	NA	3209	LC/MS pos early	2750	Food Component/Plant	Xenobiotics
+48429	methyl-4-hydroxybenzoate sulfate	NA	100006116	NA	NA	230.99688	NA	2840	LC/MS neg	2873	Benzoate Metabolism	Xenobiotics
+48433	N-formylphenylalanine	13200-85-6	100006056	NA	NA	192.06661	759256	190	LC/MS neg	2336	Phenylalanine and Tyrosine Metabolism	Amino Acid
+48460	propyl 4-hydroxybenzoate sulfate	162338-10-5	100006264	NA	NA	259.02818	NA	2841	LC/MS neg	3971	Benzoate Metabolism	Xenobiotics
+48463	ethyl paraben sulfate	162338-11-6	100006271	NA	NA	245.01253	NA	3676	LC/MS neg	3445	Chemical	Xenobiotics
+485	spermidine	124-20-9	50	HMDB01257	C00315	146.16518	1102	370	LC/MS pos early	3355	Polyamine Metabolism	Amino Acid
+48679	N-acetylhistamine	673-49-4	100006123	HMDB13253	C05135	154.09749	69602	73	LC/MS pos early	2287	Histidine Metabolism	Amino Acid
+48782	C-glycosyltryptophan	180509-18-6	100006379	NA	NA	367.14998	10981970	236	LC/MS pos early	2685	Tryptophan Metabolism	Amino Acid
+48841	p-cresol-glucuronide*	17680-99-8	100006191	HMDB11686	NA	283.08232	154035	188	LC/MS neg	2420	Phenylalanine and Tyrosine Metabolism	Amino Acid
+48857	glycerophosphoglycerol	NA	100001619	NA	C03274	245.04317	439964	1684	LC/MS polar	2430	Glycerolipid Metabolism	Lipid
+48885	arabitol/xylitol	NA	100006430	NA	NA	151.0612	NA	861	LC/MS polar	1932.4	Pentose Metabolism	Carbohydrate
+49321	X - 23461	NA	0	NA	NA	172.04027	NA	NA	LC/MS neg	1848	NA	NA
+49341	X - 23481	NA	0	NA	NA	144.04513	NA	NA	LC/MS neg	2692	NA	NA
+49342	X - 23482	NA	0	NA	NA	215.08238	NA	NA	LC/MS neg	2739	NA	NA
+49635	X - 23737	NA	0	NA	NA	188.09148	NA	NA	LC/MS pos early	1202	NA	NA
+49637	X - 23739	NA	0	NA	NA	262.10286	NA	NA	LC/MS pos early	1286	NA	NA
+49645	X - 23747	NA	NA	NA	NA	230.18642	NA	NA	LC/MS pos early	2424	NA	NA
+5086	dimethylglycine	1118-68-9	806	HMDB00092	C01026	104.07061	673	5	LC/MS pos early	1104	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+512	asparagine	70-47-3	917	HMDB00168	C00152	133.06077	6267	30	LC/MS pos early	1225	Alanine and Aspartate Metabolism	Amino Acid
+513	creatinine	60-27-5	275	HMDB00562	C00791	114.06619	588	359	LC/MS pos early	2055	Creatine Metabolism	Amino Acid
+514	cytidine	65-46-3	827	HMDB00089	C00475	242.07824	6175	2651	LC/MS neg	1325	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+52049	X - 24020	NA	NA	NA	NA	188.17542	NA	NA	LC/MS pos early	3064	NA	NA
+52103	X - 24074	NA	0	NA	NA	156.07797	NA	NA	LC/MS neg	1194	NA	NA
+52251	X - 24215	NA	NA	NA	NA	165.05439	NA	NA	LC/MS pos early	2384	NA	NA
+52256	N2-acetyllysine/N6-acetyllysine	NA	100008925	NA	NA	189.12337	NA	77	LC/MS pos early	2129	Lysine Metabolism	Amino Acid
+52307	glycerophosphoinositol*	16824-65-0	100001621	NA	NA	333.05922	NA	1442	LC/MS neg	630	Phospholipid Metabolism	Lipid
+52483	X - 24295	NA	0	NA	NA	217.07139	NA	NA	LC/MS neg	1152	NA	NA
+52602	2'-deoxyuridine	951-78-0	536	HMDB00012	C00526	227.0673	13712	2639	LC/MS neg	1586	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+52655	X - 24425	NA	NA	NA	NA	130.09738	NA	NA	LC/MS pos early	2378	NA	NA
+52657	X - 24427	NA	0	NA	NA	145.01425	NA	NA	LC/MS polar	1002	NA	NA
+52661	X - 24431	NA	NA	NA	NA	210.06051	NA	NA	LC/MS pos early	566	NA	NA
+52662	X - 24432	NA	NA	NA	NA	210.06055	NA	NA	LC/MS pos early	618	NA	NA
+527	lactate	79-33-4	482	HMDB00190	C00186	89.02442	612	820	LC/MS polar	1468.8	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+52773	X - 24456	NA	NA	NA	NA	237.08664	NA	NA	LC/MS pos early	2538	NA	NA
+5278	nicotinamide adenine dinucleotide (NAD+)	53-84-9	1310	HMDB00902	C00003	332.56184	5893	2681	LC/MS pos early	875	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+528	alpha-ketoglutarate	305-72-6;328-50-7;22202-68-2	93	HMDB00208	C00026	145.01425	51	992	LC/MS polar	2700	TCA Cycle	Energy
+52885	X - 24564	NA	0	NA	NA	172.09815	NA	NA	LC/MS neg	1613	NA	NA
+53	glutamine	56-85-9	563	HMDB00641	C00064	147.07642	5961	40	LC/MS pos early	1291	Glutamate Metabolism	Amino Acid
+531	3-hydroxy-3-methylglutarate	503-49-1	112	HMDB00355	C03761	161.04555	1662	1763	LC/MS polar	2700	Mevalonate Metabolism	Lipid
+5341	thiamin (Vitamin B1)	59-43-8	873	HMDB00235	C00378	265.11176	1130	2763	LC/MS pos early	3050	Thiamine Metabolism	Cofactors and Vitamins
+54	tryptophan	73-22-3	565	HMDB00929	C00078	205.09716	6305	195	LC/MS pos early	2986	Tryptophan Metabolism	Amino Acid
+542	3-hydroxybutyrate (BHBA)	625-72-9	254	HMDB00357	C01089	103.04007	441	1263	LC/MS polar	1443.3	Ketone Bodies	Lipid
+55	beta-alanine	56-41-7;107-95-9	244	HMDB00056	C00099	90.05496	239	2642	LC/MS pos early	1939	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+554	adenine	73-24-5	880	HMDB00034	C00147	136.06178	190	2560	LC/MS pos early	2221	"Purine Metabolism, Adenine containing"	Nucleotide
+555	adenosine	58-61-7	798	HMDB00050	C00212	268.10404	60961	2559	LC/MS pos early	2169	"Purine Metabolism, Adenine containing"	Nucleotide
+558	adenosine 5'-diphosphoribose (ADP-ribose)	68414-18-6	215	HMDB01178	C00301	558.06439	192	NA	LC/MS neg	920	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+56	cystine	56-89-3	279	HMDB00192	C00491	241.03113	67678	314	LC/MS pos early	2000	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+561	ribose 5-phosphate	18265-46-8;108321-05-7	19	HMDB00618	C00117	315.1	447634	NA	GC/MS	1928.4	Pentose Phosphate Pathway	Carbohydrate
+566	phenylpyruvate	156-06-9	241	HMDB00205	C00166	163.04007	997	104	LC/MS neg	2517.6	Phenylalanine and Tyrosine Metabolism	Amino Acid
+567	lactose	5965-66-2	393	HMDB00186	C00243	387.11442	84571	875	LC/MS polar	3500	Disaccharides and Oligosaccharides	Carbohydrate
+568	biotin	58-85-5	251	HMDB00030	C00120	245.09545	171548	2732	LC/MS pos early	2253	Biotin Metabolism	Cofactors and Vitamins
+57	glutamate	56-86-0	561	HMDB00148	C00025	148.06044	611	39	LC/MS pos early	1500	Glutamate Metabolism	Amino Acid
+573	cytosine	71-30-7	881	HMDB00630	C00380	112.05054	597	2652	LC/MS pos early	2060	"Pyrimidine Metabolism, Cytidine containing"	Nucleotide
+575	arabinose	28697-53-2	828	HMDB00646	C00216	217	66308	NA	GC/MS	1631.6	Pentose Metabolism	Carbohydrate
+577	fructose	57-48-7	878	HMDB00660	C00095	179.05611	5984	907	LC/MS polar	2022.2	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+58	glycine	56-40-6	340	HMDB00123	C00037	76.03931	750	1	LC/MS pos early	1375	"Glycine, Serine and Threonine Metabolism"	Amino Acid
+584	mannose	3458-28-4	803	HMDB00169	C00159	179.05611	18950	NA	LC/MS polar	2200	"Fructose, Mannose and Galactose Metabolism"	Carbohydrate
+587	gluconate	527-07-1	338	HMDB00625	C00257	195.05102	10690	2984	LC/MS polar	2922	Food Component/Plant	Xenobiotics
+59	histidine	5934-29-2	355	HMDB00177	C00135	154.0622	6274	54	LC/MS neg	755.9	Histidine Metabolism	Amino Acid
+590	hypotaurine	300-84-5	358	HMDB00965	C00519	110.02703	107812	321	LC/MS pos early	724	"Methionine, Cysteine, SAM and Taurine Metabolism"	Amino Acid
+594	nicotinamide	98-92-0	432	HMDB01406	C00153	123.05529	936	2677	LC/MS pos early	1942	Nicotinate and Nicotinamide Metabolism	Cofactors and Vitamins
+597	phosphoenolpyruvate (PEP)	10526-80-4	463	HMDB00263	C00074	166.9751	1005	818	LC/MS neg	587.3	"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism"	Carbohydrate
+60	leucine	61-90-5	397	HMDB00687	C00123	132.10191	6106	239	LC/MS pos early	2864	"Leucine, Isoleucine and Valine Metabolism"	Amino Acid
+604	thymine	65-71-4	882	HMDB00262	C00178	125.03565	1135	2668	LC/MS neg	1654	"Pyrimidine Metabolism, Thymine containing"	Nucleotide
+605	uracil	66-22-8	825	HMDB00300	C00106	113.03456	1174	2626	LC/MS pos early	827	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+606	uridine	58-96-8	535	HMDB00296	C00299	243.06226	6029	2625	LC/MS neg	1457.6	"Pyrimidine Metabolism, Uracil containing"	Nucleotide
+607	trans-urocanate	104-98-3	537	HMDB00301	C00785	139.05021	736715	61	LC/MS pos early	2285	Histidine Metabolism	Amino Acid
+608	pyridoxine (Vitamin B6)	58-56-0	936	HMDB02075	C00314	168.06661	1054	2774	LC/MS neg	1657	Vitamin B6 Metabolism	Cofactors and Vitamins
+6104	tryptamine	61-54-1	1095	HMDB00303	C00398	161.10733	1150	198	LC/MS pos early	3062	Tryptophan Metabolism	Amino Acid
+6146	2-aminoadipate	542-32-5;1118-90-7	381	HMDB00510	C00956	162.07609	469	81	LC/MS pos early	1912	Lysine Metabolism	Amino Acid
+64	phenylalanine	63-91-2	460	HMDB00159	C00079	166.08626	6140	100	LC/MS pos early	2878	Phenylalanine and Tyrosine Metabolism	Amino Acid

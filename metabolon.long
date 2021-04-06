@@ -1,0 +1,604 @@
+Comp ID	Biochemical Name||Platform||Super Pathway||Sub Pathway||RI||Mass
+1105	linoleate (18:2n6)||LC/MS neg||Lipid||Polyunsaturated Fatty Acid (n3 and n6)||5535||279.23295
+1107	allantoin||LC/MS polar||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1672||157.03671
+1107	allantoin||LC/MS pos||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||759.9||159.05127
+1110	arachidonate (20:4n6)||LC/MS neg||Lipid||Polyunsaturated Fatty Acid (n3 and n6)||5535||303.23295
+1114	deoxycholate||LC/MS neg||Lipid||Secondary Bile Acid Metabolism||5294||391.28538
+1123	inosine||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1602.1||267.07349
+1125	isoleucine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1599||132.10191
+1126	alanine||LC/MS pos||Amino Acid||Alanine and Aspartate Metabolism||696||90.05496
+11438	phosphate||GC/MS||Energy||Oxidative Phosphorylation||1307.7||298.9
+11777	glycine||GC/MS||Amino Acid||Glycine, Serine and Threonine Metabolism||1166||101.9
+12023	thymidine 5'-monophosphate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Thymine containing||883||321.04933
+12024	xanthosine 5'-monophosphate (xmp)||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||580||363.03474
+12035	pelargonate (9:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||4798||157.1234
+12102	phosphoethanolamine||GC/MS||Lipid||Phospholipid Metabolism||1577.3||299.1
+12129	beta-hydroxyisovalerate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1027||117.05572
+12129	beta-hydroxyisovalerate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1149.8||117.05572
+1284	threonine||LC/MS pos||Amino Acid||Glycine, Serine and Threonine Metabolism||701.5||120.06552
+1299	tyrosine||LC/MS pos||Amino Acid||Phenylalanine and Tyrosine Metabolism||1516.3||182.08117
+1301	lysine||LC/MS polar||Amino Acid||Lysine Metabolism||5431.1||145.09825
+1301	lysine||LC/MS pos||Amino Acid||Lysine Metabolism||613.8||147.11281
+1302	methionine||LC/MS pos||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1250||150.05833
+1303	malate||GC/MS||Energy||TCA Cycle||1502||233
+1303	malate||LC/MS polar||Energy||TCA Cycle||3343.1||133.01425
+1336	palmitate (16:0)||LC/MS neg||Lipid||Long Chain Fatty Acid||5618||255.23295
+1358	stearate (18:0)||LC/MS neg||Lipid||Long Chain Fatty Acid||5872||283.26425
+1359	oleate (18:1n9)||GC/MS||Lipid||Long Chain Fatty Acid||1984.4||339.2
+1408	putrescine||GC/MS||Amino Acid||Polyamine Metabolism||1705.8||174
+1411	2'-deoxyguanosine||LC/MS neg||Nucleotide||Purine Metabolism, Guanine containing||1751||266.08948
+1412	2'-deoxyuridine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1585.5||111.01997
+1414	3-phosphoglycerate||LC/MS neg||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||583||184.98566
+1416	gamma-aminobutyrate (GABA)||LC/MS pos||Amino Acid||Glutamate Metabolism||699||104.07061
+1417	kynurenate||LC/MS neg||Amino Acid||Tryptophan Metabolism||2224||188.03531
+1418	5,6-dihydrothymine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Thymine containing||1637.8||127.0513
+1419	5-methylthioadenosine (MTA)||LC/MS pos||Amino Acid||Polyamine Metabolism||2444.9||298.09684
+1437	succinate||LC/MS neg||Energy||TCA Cycle||603||117.01933
+1437	succinate||LC/MS polar||Energy||TCA Cycle||3149||117.01933
+1444	pipecolate||LC/MS pos||Amino Acid||Lysine Metabolism||1120||130.08626
+1481	inositol 1-phosphate (I1P)||GC/MS||Lipid||Inositol Metabolism||2057.8||318.1
+1493	ornithine||GC/MS||Amino Acid||Urea cycle; Arginine and Proline Metabolism||1763.8||142
+1494	5-oxoproline||LC/MS neg||Amino Acid||Glutathione Metabolism||738.5||128.03531
+1494	5-oxoproline||LC/MS polar||Amino Acid||Glutathione Metabolism||2179||128.03531
+1497	ethanolamine||GC/MS||Lipid||Phospholipid Metabolism||1304||174.1
+1498	N-6-trimethyllysine||LC/MS pos||Amino Acid||Lysine Metabolism||690||189.15976
+1504	nicotinate||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1180||122.02475
+15053	sorbitol||GC/MS||Carbohydrate||Fructose, Mannose and Galactose Metabolism||1843||319.1
+1505	orotate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Orotate containing||758.2||155.00983
+1505	orotate||LC/MS polar||Nucleotide||Pyrimidine Metabolism, Orotate containing||1638.1||155.00983
+15076	2'-deoxyinosine||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1688||251.07857
+1508	pantothenate||LC/MS neg||Cofactors and Vitamins||Pantothenate and CoA Metabolism||1498.7||218.10339
+1508	pantothenate||LC/MS pos||Cofactors and Vitamins||Pantothenate and CoA Metabolism||2212.4||220.11795
+15122	glycerol||LC/MS neg||Lipid||Glycerolipid Metabolism||758||91.04007
+15129	alanylalanine||LC/MS neg||Peptide||Dipeptide||810||159.07751
+15136	xanthosine||LC/MS pos||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1827||285.08296
+15140	kynurenine||LC/MS pos||Amino Acid||Tryptophan Metabolism||1902.1||209.09207
+15142	allo-threonine||GC/MS||Amino Acid||Glycine, Serine and Threonine Metabolism||1417.8||219
+15365	glycerol 3-phosphate (G3P)||GC/MS||Lipid||Glycerolipid Metabolism||1719.7||357.1
+15443	glucuronate||LC/MS polar||Carbohydrate||Aminosugar Metabolism||3233.3||193.03537
+1549	3-hydroxyisobutyrate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1619.1||103.04007
+15500	carnitine||LC/MS pos||Lipid||Carnitine Metabolism||688.9||162.11247
+15506	choline||LC/MS pos||Lipid||Phospholipid Metabolism||675||104.10699
+15573	trehalose||GC/MS||Carbohydrate||Disaccharides and Oligosaccharides||2174.9||361.2
+1558	4-acetamidobutanoate||LC/MS pos||Amino Acid||Polyamine Metabolism||1721.3||146.08117
+1559	5,6-dihydrouracil||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Uracil containing||1148||115.05021
+1561	alpha-tocopherol||GC/MS||Cofactors and Vitamins||Tocopherol Metabolism||2305.4||502.5
+1564	citrate||LC/MS neg||Energy||TCA Cycle||582||191.01973
+15650	N1-methyladenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1399||282.11969
+15650	N1-methyladenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1399.4||282.11969
+15667	2-isopropylmalate||LC/MS neg||Xenobiotics||Food Component/Plant||725||175.06119
+15676	3-methyl-2-oxovalerate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2064.2||129.05572
+15681	4-guanidinobutanoate||LC/MS pos||Amino Acid||Guanidino and Acetamido Metabolism||1150||146.09241
+15705	cystathionine||GC/MS||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1979.6||218.1
+15720	N-acetylglutamate||LC/MS pos||Amino Acid||Glutamate Metabolism||1492||190.071
+15725	nicotinate adenine dinucleotide (NAAD+)||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1200||663.08586
+1572	glycerate||GC/MS||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||1360.7||189
+1572	glycerate||LC/MS polar||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||2070.4||105.01933
+15737	glycolate (hydroxyacetate)||GC/MS||Xenobiotics||Chemical||1119||177
+1573	guanosine||LC/MS neg||Nucleotide||Purine Metabolism, Guanine containing||1662||282.08439
+15745	methylsuccinate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2800||131.03498
+15753	hippurate||LC/MS neg||Xenobiotics||Benzoate Metabolism||2106.9||178.05096
+15765	ethylmalonate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2785||131.03498
+15772	ribitol||LC/MS polar||Carbohydrate||Pentose Metabolism||1789.6||151.06119
+15778	benzoate||LC/MS neg||Xenobiotics||Benzoate Metabolism||1750||121.0295
+15797	flavin mononucleotide (FMN)||LC/MS neg||Cofactors and Vitamins||Riboflavin Metabolism||2390||455.09733
+1585	N-acetylalanine||LC/MS neg||Amino Acid||Alanine and Aspartate Metabolism||861.2||130.05096
+1585	N-acetylalanine||LC/MS polar||Amino Acid||Alanine and Aspartate Metabolism||1564.8||130.05096
+15872	malonate (propanedioate)||LC/MS polar||Lipid||Fatty Acid Synthesis||3447||103.00368
+1587	N-acetylleucine||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2361.4||172.09791
+1589	N-acetylmethionine||LC/MS neg||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1787||190.05434
+1591	N-acetylvaline||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1704||158.08226
+15949	2'-deoxycytidine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Cytidine containing||1492.2||226.08333
+1594	N-carbamoylaspartate||LC/MS polar||Nucleotide||Pyrimidine Metabolism, Orotate containing||3800||175.03604
+15990	glycerophosphorylcholine (GPC)||LC/MS pos||Lipid||Phospholipid Metabolism||709.9||258.1101
+1600	phosphoethanolamine||LC/MS neg||Lipid||Phospholipid Metabolism||638||140.01182
+1604	urate||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||757.1||167.02106
+1638	arginine||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||700||175.11896
+1642	caprate (10:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||5090.7||171.13905
+1643	fumarate||LC/MS polar||Energy||TCA Cycle||3084||115.00368
+1644	heptanoate (7:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||3670||129.0921
+1645	laurate (12:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||5300||199.17035
+1648	serine||GC/MS||Amino Acid||Glycine, Serine and Threonine Metabolism||1389.1||204
+1648	serine||LC/MS pos||Amino Acid||Glycine, Serine and Threonine Metabolism||676.7||106.04987
+1649	valine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1042.1||118.08626
+1651	pyridoxal||LC/MS pos||Cofactors and Vitamins||Vitamin B6 Metabolism||1203||168.06552
+1654	1,3-diaminopropane||GC/MS||Amino Acid||Polyamine Metabolism||1633.8||174
+1669	4-hydroxyphenylpyruvate||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||1690.1||179.03498
+1670	urea||GC/MS||Amino Acid||Urea cycle; Arginine and Proline Metabolism||1223.9||171
+1712	cortisol||LC/MS pos||Lipid||Steroid||4561.9||363.2166
+1769	cortisone||LC/MS neg||Lipid||Steroid||4572.5||359.18639
+1778	gamma-glutamylcysteine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||1263.5||251.06963
+18245	gamma-glutamylhistidine||LC/MS neg||Peptide||Gamma-glutamyl Amino Acid||706||283.10479
+1826	folate||LC/MS neg||Cofactors and Vitamins||Folate Metabolism||1467||440.1324
+1826	folate||LC/MS pos||Cofactors and Vitamins||Folate Metabolism||2632.6||442.14696
+1827	riboflavin (Vitamin B2)||LC/MS pos||Cofactors and Vitamins||Riboflavin Metabolism||3098.3||377.14557
+18289	3'-dephosphocoenzyme A||LC/MS neg||Cofactors and Vitamins||Pantothenate and CoA Metabolism||2013||686.1416
+18349	indolelactate||LC/MS pos||Amino Acid||Tryptophan Metabolism||3514||206.08117
+18354	N-acetylmuramate||LC/MS neg||Carbohydrate||Aminosugar Metabolism||860||292.10379
+18369	gamma-glutamylleucine||LC/MS neg||Peptide||Gamma-glutamyl Amino Acid||1636.5||259.12994
+18369	gamma-glutamylleucine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2757.2||261.1445
+18374	methionine sulfoxide||LC/MS pos||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||741.1||166.05325
+1898	proline||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||805||116.07061
+19934	myo-inositol||GC/MS||Lipid||Inositol Metabolism||1924.9||217
+20488	glucose||GC/MS||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||1866.8||217.1
+20676	maleate (cis-Butenedioate)||LC/MS polar||Lipid||Fatty Acid, Dicarboxylate||2510||115.00368
+20699	erythritol||GC/MS||Xenobiotics||Food Component/Plant||1517.5||217
+20710	trizma acetate||GC/MS||Xenobiotics||Chemical||1525||306.2
+20877	4-amino-2-hydroxybutyrate||GC/MS||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1651.5||174
+21248	HEPES||LC/MS neg||Xenobiotics||Chemical||1022||237.09145
+2132	citrulline||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||730.3||176.10297
+2133	inosine 5'-monophosphate (IMP)||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||650||347.03982
+2134	flavin adenine dinucleotide (FAD)||LC/MS neg||Cofactors and Vitamins||Riboflavin Metabolism||2425||784.14985
+2183	thymidine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Thymine containing||1963.7||241.08299
+2183	thymidine||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Thymine containing||1979.5||243.09755
+2184	cyanocobalamin (Vitamin B12)||LC/MS pos||Cofactors and Vitamins||Vitamin B12 Metabolism||2674||678.29098
+22001	3-hydroxyoctanoate||LC/MS neg||Lipid||Fatty Acid, Monohydroxy||3446||159.10266
+22053	3-hydroxydecanoate||LC/MS neg||Lipid||Fatty Acid, Monohydroxy||4634.7||187.13396
+22116	4-methyl-2-oxopentanoate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2170||129.05571
+22130	phenyllactate (PLA)||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||2208||165.05571
+22132	alpha-hydroxyisocaproate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1840||131.07136
+22138	homocitrulline||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||821.7||190.11862
+22152	nicotinamide ribonucleotide (NMN)||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||680||211.00129
+22158	citramalate||LC/MS polar||Amino Acid||Glutamate Metabolism||3201||147.02989
+22171	glycylproline||LC/MS pos||Peptide||Dipeptide||1090||173.09207
+22176	cysteine s-sulfate||LC/MS neg||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||640.9||199.96928
+22185	N-acetylaspartate (NAA)||LC/MS neg||Amino Acid||Alanine and Aspartate Metabolism||620.5||174.04079
+22185	N-acetylaspartate (NAA)||LC/MS polar||Amino Acid||Alanine and Aspartate Metabolism||3143||174.04079
+22194	pyroglutamylglutamine||LC/MS neg||Peptide||Dipeptide||855||256.09389
+23642	homoserine||GC/MS||Amino Acid||Glycine, Serine and Threonine Metabolism||1471||218.1
+2372	cytidine 5'-monophosphate (5'-CMP)||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Cytidine containing||890||324.05914
+2730	gamma-glutamylglutamine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||817.9||276.11902
+2734	gamma-glutamyltyrosine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2080.4||311.12377
+27513	indoleacetate||LC/MS pos||Amino Acid||Tryptophan Metabolism||3766.3||176.07061
+2763	UDP-glucuronate||LC/MS neg||Carbohydrate||Nucleotide Sugar||588||579.02701
+27710	N-acetylglycine||LC/MS polar||Amino Acid||Glycine, Serine and Threonine Metabolism||1780||116.03531
+27718	creatine||LC/MS pos||Amino Acid||Creatine Metabolism||771||132.07676
+27731	ribonate||LC/MS polar||Carbohydrate||Pentose Metabolism||2425||165.04046
+27738	threonate||LC/MS polar||Cofactors and Vitamins||Ascorbate and Aldarate Metabolism||2384||135.02989
+27743	triethyleneglycol||LC/MS pos||Xenobiotics||Chemical||1810||151.09649
+2829	N-formylmethionine||LC/MS neg||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1543.8||176.03869
+2841	cytidine diphosphate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Cytidine containing||580||402.01091
+2844	cytidine triphosphate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Cytidine containing||575||481.97724
+2849	guanosine 5'- monophosphate (5'-GMP)||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1300||364.06528
+2856	uridine 5'-monophosphate (UMP)||LC/MS polar||Nucleotide||Pyrimidine Metabolism, Uracil containing||4150||323.02859
+2959	cytidine-3'-monophosphate (3'-CMP)||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Cytidine containing||1203||324.05914
+3127	hypoxanthine||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1291.2||135.03123
+3127	hypoxanthine||LC/MS polar||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1515.8||135.03123
+3127	hypoxanthine||LC/MS pos||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1375.1||137.04579
+3141	betaine||LC/MS pos||Amino Acid||Glycine, Serine and Threonine Metabolism||734||118.08626
+31453	cysteine||GC/MS||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1560.1||218
+3147	xanthine||LC/MS neg||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||908.9||151.02615
+3147	xanthine||LC/MS pos||Nucleotide||Purine Metabolism, (Hypo)Xanthine/Inosine containing||1449.7||153.04071
+31522	pyroglutamylglycine||LC/MS neg||Peptide||Dipeptide||828.2||185.05678
+31555	pyridoxate||LC/MS neg||Cofactors and Vitamins||Vitamin B6 Metabolism||2185||182.04588
+31609	N1-methylguanosine||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1869||298.1146
+31675	2-pyrrolidinone||GC/MS||Xenobiotics||Chemical||1190.9||142
+31940	3-methylcrotonylglycine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2573.6||158.08117
+32197	3-(4-hydroxyphenyl)lactate||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||1379||181.05063
+32198	acetylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||1166.9||204.12304
+32306	trans-4-hydroxyproline||LC/MS polar||Amino Acid||Urea cycle; Arginine and Proline Metabolism||2845.5||130.05096
+32328	hexanoylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||3194||260.18564
+32342	adenosine 5'-monophosphate (AMP)||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1208||348.07037
+32349	4-imidazoleacetate||LC/MS pos||Amino Acid||Histidine Metabolism||757||127.05021
+32352	guanine||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1035||152.05669
+32377	N-acetylneuraminate||LC/MS polar||Carbohydrate||Aminosugar Metabolism||3072.6||308.0987
+32379	scyllo-inositol||GC/MS||Lipid||Inositol Metabolism||1893.8||318.2
+32390	N-acetyltyrosine||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||1637.2||222.07718
+32394	pyroglutamylvaline||LC/MS neg||Peptide||Dipeptide||1755||227.10373
+32397	3-hydroxy-2-ethylpropionate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1443.3||117.05571
+32398	sebacate (decanedioate)||LC/MS neg||Lipid||Fatty Acid, Dicarboxylate||1788||201.11323
+32401	trigonelline (N'-methylnicotinate)||LC/MS pos||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||771.8||138.05496
+32412	butyrylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism (also BCAA Metabolism)||1977||232.15434
+32418	myristoleate (14:1n5)||LC/MS neg||Lipid||Long Chain Fatty Acid||5346.9||225.186
+32446	guanidinosuccinate||LC/MS pos||Amino Acid||Guanidino and Acetamido Metabolism||742.9||176.06659
+32452	propionylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism (also BCAA Metabolism)||1590||218.13869
+32454	valylglutamate||LC/MS pos||Peptide||Dipeptide||1320||247.12885
+32457	3-hydroxylaurate||LC/MS neg||Lipid||Fatty Acid, Monohydroxy||5175||215.16526
+32489	caproate (6:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||2713.7||115.07645
+32492	caprylate (8:0)||LC/MS neg||Lipid||Medium Chain Fatty Acid||4362||143.10775
+32553	phenol sulfate||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||2156||172.9914
+32980	adrenate (22:4n6)||LC/MS neg||Lipid||Polyunsaturated Fatty Acid (n3 and n6)||5678||331.26425
+33013	nicotinamide riboside||LC/MS pos||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||930||255.09755
+33132	X - 11787||LC/MS pos||---||---||1113||148.09678
+33364	gamma-glutamylthreonine*||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||996.6||249.10812
+33422	gamma-glutamylphenylalanine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2865||295.12885
+33441	isobutyrylcarnitine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1955.1||232.15434
+33442	pseudouridine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1100||243.06226
+33442	pseudouridine||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Uracil containing||1173||245.07682
+33449	adenosine 5'-triphosphate (ATP)||GC-FID||Nucleotide||Purine Metabolism, Adenine containing||||
+33471	nicotinate ribonucleoside||LC/MS pos||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1085||256.08157
+33477	erythronate*||GC/MS||Carbohydrate||Aminosugar Metabolism||1546.9||292.1
+33487	glutamate, gamma-methyl ester||LC/MS pos||Amino Acid||Glutamate Metabolism||1068.8||162.07609
+33934	gamma-glutamyllysine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||760||276.1554
+33936	octanoylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||4090||288.21694
+33937	alpha-hydroxyisovalerate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1126||117.05571
+33939	N-acetylthreonine||LC/MS neg||Amino Acid||Glycine, Serine and Threonine Metabolism||821.6||160.06153
+33941	decanoylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||4700||316.24824
+33942	N-acetylasparagine||LC/MS pos||Amino Acid||Alanine and Aspartate Metabolism||961.6||175.07134
+33943	N-acetylglutamine||LC/MS neg||Amino Acid||Glutamate Metabolism||771||187.07243
+33943	N-acetylglutamine||LC/MS polar||Amino Acid||Glutamate Metabolism||2140||187.07243
+33946	N-acetylhistidine||LC/MS neg||Amino Acid||Histidine Metabolism||900||196.07276
+33946	N-acetylhistidine||LC/MS pos||Amino Acid||Histidine Metabolism||848||198.08732
+33947	gamma-glutamyltryptophan||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||3035||334.13975
+33949	gamma-glutamylglycine||LC/MS neg||Peptide||Gamma-glutamyl Amino Acid||640||203.06734
+33950	N-acetylphenylalanine||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||2597||206.08226
+33953	N-acetylarginine||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||1116||217.12952
+33954	glycylphenylalanine||LC/MS pos||Peptide||Dipeptide||2388.3||223.10772
+33959	N-acetyltryptophan||LC/MS neg||Amino Acid||Tryptophan Metabolism||2630||245.09316
+33967	N-acetylisoleucine||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2275||172.09791
+33967	N-acetylisoleucine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||3345.5||174.11247
+33968	5-dodecenoate (12:1n7)||LC/MS neg||Lipid||Medium Chain Fatty Acid||5224||197.1547
+34391	1-margaroylglycerol (1-monoheptadecanoin)||LC/MS neg||Lipid||Monoacylglycerol||6571||269.24858
+34396	choline phosphate||LC/MS pos||Lipid||Phospholipid Metabolism||692.5||184.07332
+34398	glycylleucine||LC/MS pos||Peptide||Dipeptide||2190.9||189.12337
+34407	isovalerylcarnitine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2504.9||246.16999
+34410	cytidine-5'-diphosphoethanolamine||LC/MS polar||Lipid||Phospholipid Metabolism||4210||445.0531
+34456	gamma-glutamylisoleucine*||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2661||261.1445
+34457	gamma-glutamylisoleucine*||LC/MS neg||Peptide||Gamma-glutamyl Amino Acid||1585||259.12994
+34534	laurylcarnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||5070||344.27954
+34592	ophthalmate||LC/MS neg||Amino Acid||Glutathione Metabolism||919||288.12011
+35114	7-methylguanine||LC/MS neg||Nucleotide||Purine Metabolism, Guanine containing||1729.7||164.05778
+35133	N2-methylguanosine||LC/MS neg||Nucleotide||Purine Metabolism, Guanine containing||1988||296.10004
+35133	N2-methylguanosine||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1960||298.1146
+35136	5-methyluridine (ribothymidine)||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1778.1||257.07791
+35137	N2,N2-dimethylguanosine||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||2168||312.13025
+35142	adenosine 3'-monophosphate (3'-AMP)||LC/MS neg||Nucleotide||Purine Metabolism, Adenine containing||1245||346.0558
+35157	N6-carbamoylthreonyladenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||2673||413.14154
+35159	cysteine-glutathione disulfide||LC/MS pos||Amino Acid||Glutathione Metabolism||824||214.05123
+35638	xylonate||GC/MS||Carbohydrate||Pentose Metabolism||1722||292
+35651	ectoine||LC/MS pos||Xenobiotics||Chemical||823||143.08151
+35665	N-acetyl-aspartyl-glutamate (NAAG)||LC/MS pos||Amino Acid||Glutamate Metabolism||1575.4||305.09795
+35718	dihomo-linolenate (20:3n3 or n6)||LC/MS neg||Lipid||Polyunsaturated Fatty Acid (n3 and n6)||5596||305.2486
+35855	ribulose||GC/MS||Carbohydrate||Pentose Metabolism||1662||306.1
+36103	p-cresol sulfate||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||2890||187.00705
+36659	glycylisoleucine||LC/MS pos||Peptide||Dipeptide||2080||189.12337
+36738	gamma-glutamylglutamate||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||1045||277.10303
+36746	2-hydroxy-3-methylvalerate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1800||131.07136
+36747	deoxycarnitine||LC/MS pos||Lipid||Carnitine Metabolism||742.4||146.11756
+36751	N2-acetyllysine||LC/MS pos||Amino Acid||Lysine Metabolism||836||189.12337
+36752	N6-acetyllysine||LC/MS pos||Amino Acid||Lysine Metabolism||1140||189.12337
+36808	dimethylarginine (SDMA + ADMA)||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||810||203.15026
+36811	2'-O-methylguanosine||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1943||298.1146
+36815	adenosine 2'-monophosphate (2'-AMP)||LC/MS neg||Nucleotide||Purine Metabolism, Adenine containing||1497.7||346.0558
+36817	phenol red||LC/MS pos||Xenobiotics||Chemical||4373||355.06347
+37063	gamma-glutamylalanine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||1116||219.09755
+37064	alanylglutamate||LC/MS pos||Peptide||Dipeptide||778||219.09755
+37076	N-acetylserine||LC/MS pos||Amino Acid||Glycine, Serine and Threonine Metabolism||1021||148.06044
+37085	alanylthreonine||LC/MS neg||Peptide||Dipeptide||802||189.08808
+37092	gamma-glutamyl-2-aminobutyrate||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||1580||233.1132
+37114	N6-methyladenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1988||282.11969
+37137	uridine-2',3'-cyclic monophosphate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1090||305.01803
+37139	guanosine-2',3'-cyclic monophosphate||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1640||346.05472
+37253	2-hydroxyglutarate||LC/MS polar||Lipid||Fatty Acid, Dicarboxylate||3352.8||147.02989
+37455	glycerophosphoethanolamine||LC/MS polar||Lipid||Phospholipid Metabolism||3075||214.04859
+37461	aspartate-glutamate||LC/MS neg||Peptide||Dipeptide||595||261.07282
+37465	cytosine-2',3'-cyclic monophosphate||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Cytidine containing||937||304.03401
+37467	adenosine-2',3'-cyclic monophosphate||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1536.9||330.0598
+37483	2-methylcitrate||LC/MS neg||Energy||TCA Cycle||575||205.03538
+37496	N-acetylputrescine||LC/MS pos||Amino Acid||Polyamine Metabolism||840||131.11789
+37752	13-HODE + 9-HODE||LC/MS neg||Lipid||Fatty Acid, Monohydroxy||5275||295.22825
+38101	tetraethylene glycol||LC/MS pos||Xenobiotics||Chemical||2165||195.1227
+38133	hexaethylene glycol||LC/MS pos||Xenobiotics||Chemical||2662||283.17513
+38154	heptaethylene glycol||LC/MS pos||Xenobiotics||Chemical||2865||327.20135
+38155	octaethylene glycol||LC/MS pos||Xenobiotics||Chemical||3056||371.22756
+38158	pentaethylene glycol||LC/MS pos||Xenobiotics||Chemical||2454||239.14892
+38178	cis-4-decenoyl carnitine||LC/MS pos||Lipid||Fatty Acid Metabolism(Acyl Carnitine)||4468||314.23259
+38293	13-methylmyristic acid||LC/MS neg||Lipid||Fatty Acid, Branched||5499||241.2173
+38314	dexpanthenol||LC/MS neg||Xenobiotics||Chemical||2259.1||204.12413
+38339	benzoyl coenzyme A||LC/MS neg||Xenobiotics||Benzoate Metabolism||2850||870.13414
+38679	alanylphenylalanine||LC/MS neg||Peptide||Dipeptide||2550||235.10881
+38768	15-methylpalmitate (isobar with 2-methylpalmitate)||LC/MS neg||Lipid||Fatty Acid, Branched||5695||269.24868
+39592	S-methylcysteine||LC/MS pos||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||848||119.01613
+396	glutarate (pentanedioate)||LC/MS polar||Amino Acid||Lysine Metabolism||2900||131.03498
+39764	uridine-3'-monophosphate (3'-UMP)||LC/MS polar||Nucleotide||Pyrimidine Metabolism, Uracil containing||3800||323.02859
+39786	guanosine 3'-monophosphate (3'-GMP)||LC/MS pos||Nucleotide||Purine Metabolism, Guanine containing||1550||364.06528
+39892	uridine monophosphate (5' or 3')||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Uracil containing||1100||325.04315
+39994	valylleucine||LC/MS pos||Peptide||Dipeptide||2562||231.17032
+40008	isoleucylglycine||LC/MS pos||Peptide||Dipeptide||1740||189.12337
+40012	isoleucylserine||LC/MS pos||Peptide||Dipeptide||1487||219.13394
+40017	phenylalanylserine||LC/MS pos||Peptide||Dipeptide||1815||253.11829
+40020	lysylleucine||LC/MS pos||Peptide||Dipeptide||1561||260.19687
+40045	leucylglycine||LC/MS pos||Peptide||Dipeptide||1805||189.12337
+40048	leucylserine||LC/MS pos||Peptide||Dipeptide||1530||219.13394
+40049	isoleucylvaline||LC/MS pos||Peptide||Dipeptide||2236||231.17032
+40054	serylphenyalanine||LC/MS neg||Peptide||Dipeptide||2106||251.10373
+40054	serylphenyalanine||LC/MS pos||Peptide||Dipeptide||2351||253.11829
+40066	serylleucine||LC/MS pos||Peptide||Dipeptide||2109||219.13394
+40068	aspartylleucine||LC/MS pos||Peptide||Dipeptide||2316||247.12885
+40097	X - 17299||LC/MS pos||---||---||1282||229.15433
+40410	cis-urocanate||LC/MS neg||Amino Acid||Histidine Metabolism||1200||137.03565
+40703	prolylglycine||LC/MS pos||Peptide||Dipeptide||875||173.09207
+40705	prolylalanine||LC/MS pos||Peptide||Dipeptide||888||187.10772
+41370	phenylalanylglycine||LC/MS pos||Peptide||Dipeptide||2155||223.10772
+41381	prolylglutamate||LC/MS pos||Peptide||Dipeptide||980||245.1132
+41387	threonylglutamine||LC/MS pos||Peptide||Dipeptide||742||248.1241
+41393	phenylalanylvaline||LC/MS pos||Peptide||Dipeptide||2624||265.15467
+41995	threonylserine||LC/MS neg||Peptide||Dipeptide||706||205.08299
+42028	asparagylvaline||LC/MS pos||Peptide||Dipeptide||1539||232.12919
+42058	serylvaline||LC/MS pos||Peptide||Dipeptide||1514||205.11829
+42077	seryltyrosine||LC/MS pos||Peptide||Dipeptide||1735||269.1132
+42109	phosphate||LC/MS neg||Energy||Oxidative Phosphorylation||608||96.96962
+42382	S-adenosylhomocysteine (SAH)||LC/MS neg||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1832.4||383.11431
+42382	S-adenosylhomocysteine (SAH)||LC/MS pos||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||1495.9||193.06807
+42420	erythronate*||LC/MS polar||Carbohydrate||Aminosugar Metabolism||2186||135.02989
+42582	pyruvate||LC/MS neg||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||732.4||87.00877
+42976	asparagylisoleucine||LC/MS pos||Peptide||Dipeptide||2075||246.14484
+42980	asparagylleucine||LC/MS pos||Peptide||Dipeptide||2175||246.14484
+42988	glutamine-isoleucine||LC/MS pos||Peptide||Dipeptide||2085||260.16049
+43023	pterin||LC/MS pos||Cofactors and Vitamins||Pterin Metabolism||1545||164.05669
+43249	N-delta-acetylornithine||LC/MS neg||Amino Acid||Urea cycle; Arginine and Proline Metabolism||858||173.09316
+43249	N-delta-acetylornithine||LC/MS pos||Amino Acid||Urea cycle; Arginine and Proline Metabolism||887||175.10772
+43374	indolin-2-one||LC/MS pos||Xenobiotics||Food Component/Plant||3386||134.06004
+43392	o-Tyrosine||LC/MS pos||Amino Acid||Phenylalanine and Tyrosine Metabolism||1900||182.08117
+43400	2-piperidinone||LC/MS pos||Xenobiotics||Food Component/Plant||2047||100.07569
+43522	cyclo(pro-tyr)||LC/MS pos||Peptide||Dipeptide||2575||261.12337
+43530	N-acetyl-cadaverine||LC/MS pos||Amino Acid||Lysine Metabolism||1245||145.13354
+43787	cyclo(L-phe-D-pro)*||LC/MS pos||Peptide||Dipeptide||3550||245.12846
+43802	guanidinoacetate||LC/MS pos||Amino Acid||Creatine Metabolism||711.2||118.06111
+43829	gamma-glutamylvaline||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2045||247.12885
+43840	acetyl CoA||LC/MS neg||Lipid||Fatty Acid Metabolism||1691||403.55561
+43847	glycerol 3-phosphate (G3P)||LC/MS polar||Lipid||Glycerolipid Metabolism||3938.7||171.00639
+443	aspartate||LC/MS neg||Amino Acid||Alanine and Aspartate Metabolism||640||132.03023
+443	aspartate||LC/MS pos||Amino Acid||Alanine and Aspartate Metabolism||668||134.04479
+44526	3-methyl-2-oxobutyrate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1465||115.04006
+44526	3-methyl-2-oxobutyrate||LC/MS polar||Amino Acid||Leucine, Isoleucine and Valine Metabolism||911||115.04006
+44656	isovalerate||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1564||101.0608
+44872	gamma-glutamylmethionine||LC/MS pos||Peptide||Gamma-glutamyl Amino Acid||2016.5||279.10092
+44873	3-methylcrotonyl CoA||LC/MS neg||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2623.1||423.57126
+44875	cyclo(L-phe-L-pro)||LC/MS pos||Peptide||Dipeptide||3644||245.12846
+45095	2-methylbutyrylcarnitine (C5)||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||2465||246.16999
+45428	N-acetylmethionine sulfoxide||LC/MS neg||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||942||206.04925
+45970	1-palmitoylglycerophosphoglycerol*||LC/MS neg||Lipid||Lysolipid||5570||483.27284
+45982	2-palmitoylglycerophosphoglycerol*||LC/MS neg||Lipid||Lysolipid||5530||483.27284
+46173	aconitate [cis or trans]||LC/MS neg||Energy||TCA Cycle||580||173.00916
+46225	pyroglutamine*||LC/MS pos||Amino Acid||Glutamate Metabolism||750||129.06586
+46260	X - 11564||LC/MS neg||---||---||1157.1||177.023
+46261	X - 19438||LC/MS neg||---||---||1209||217.07208
+46261	X - 19438||LC/MS neg||---||---||1209||217.07208
+46295	X - 21286||LC/MS neg||---||---||1550||164.0355
+46315	X - 16083||LC/MS neg||---||---||1484||309.11947
+46322	coenzyme A||LC/MS neg||Cofactors and Vitamins||Pantothenate and CoA Metabolism||1448||382.55033
+46387	X - 21342||LC/MS neg||---||---||5149||385.16642
+46398	X - 21353||LC/MS neg||---||---||5196||239.1655
+46407	X - 21362||LC/MS neg||---||---||5354||135.04526
+46418	X - 21373||LC/MS pos||---||---||5113||387.17978
+46454	X - 16579||LC/MS pos||---||---||1457||129.05238
+46454	X - 16579||LC/MS pos||---||---||1457||129.05238
+46463	X - 14364||LC/MS neg||---||---||2590||275.10387
+46463	X - 14364||LC/MS neg||---||---||2590||275.10387
+46473	X - 15497||LC/MS neg||---||---||2843||236.09303
+46473	X - 15497||LC/MS neg||---||---||2843||236.09303
+46502	X - 21457||LC/MS pos||---||---||1815||127.05
+46505	X - 21460||LC/MS pos||---||---||1833||173.07841
+46506	X - 21461||LC/MS pos||---||---||1832||162.05833
+46596	X - 11407||LC/MS neg||---||---||2108||186.11303
+46597	X - 11429||LC/MS neg||---||---||1151||245.07728
+46620	X - 12462||LC/MS pos||---||---||1275||148.04271
+46620	X - 12462||LC/MS pos||---||---||1275||148.04271
+46622	X - 12792||LC/MS pos||---||---||832||134.02694
+46622	X - 12792||LC/MS pos||---||---||832||134.02694
+46624	X - 12798||LC/MS pos||---||---||1870||240.10168
+46632	X - 14056||LC/MS pos||---||---||923||192.03254
+46632	X - 14056||LC/MS pos||---||---||923||192.03254
+46648	X - 13891||LC/MS neg||---||---||2709||227.12899
+46649	X - 14568||LC/MS neg||---||---||661||132.92067
+46649	X - 14568||LC/MS neg||---||---||661||132.92067
+46650	X - 21583||LC/MS neg||---||---||657||92.92813
+46650	X - 21583||LC/MS neg||---||---||657||92.92813
+46657	X - 14939||LC/MS neg||---||---||4353||165.01953
+46658	X - 15220||LC/MS neg||---||---||2662||274.11199
+46661	X - 15245||LC/MS neg||---||---||568||233.03033
+46661	X - 15245||LC/MS neg||---||---||568||233.03033
+46679	X - 11945||LC/MS pos||---||---||1880||283.10343
+46684	X - 12093||LC/MS pos||---||---||1037||203.13875
+46685	X - 16964||LC/MS neg||---||---||3034||174.05948
+46687	X - 18779||LC/MS neg||---||---||1969||209.04535
+46687	X - 18779||LC/MS neg||---||---||1969||209.04535
+46695	X - 18913||LC/MS neg||---||---||4538||185.11815
+46708	X - 19437||LC/MS neg||---||---||1145||397.14725
+46708	X - 19437||LC/MS neg||---||---||1145||397.14725
+46734	cysteine-glutathione disulfide||LC/MS pos||Amino Acid||Glutathione Metabolism||824||427.09519
+46738	X - 21664||LC/MS neg||---||---||3692||144.04552
+46738	X - 21664||LC/MS neg||---||---||3692||144.04552
+46894	X - 12748||LC/MS neg||---||---||539||320.06242
+46894	X - 12748||LC/MS neg||---||---||539||320.06242
+46898	X - 21729||LC/MS neg||---||---||1024||87.0453
+46928	X - 21755||LC/MS pos||---||---||1055||319.20835
+46928	X - 21755||LC/MS pos||---||---||1055||319.20835
+46929	X - 21756||LC/MS pos||---||---||1142||247.09184
+46929	X - 21756||LC/MS pos||---||---||1142||247.09184
+46930	X - 21757||LC/MS pos||---||---||1255||289.11504
+46930	X - 21757||LC/MS pos||---||---||1255||289.11504
+46940	X - 15484||LC/MS pos||---||---||2492||271.10429
+46940	X - 15484||LC/MS pos||---||---||2492||271.10429
+46941	X - 15382||LC/MS pos||---||---||2535||271.10432
+46941	X - 15382||LC/MS pos||---||---||2535||271.10432
+46942	X - 21769||LC/MS pos||---||---||2555||250.01283
+46943	X - 15375||LC/MS pos||---||---||2576||328.12558
+46948	X - 21775||LC/MS pos||---||---||2824||248.03354
+46957	gulonic acid*||LC/MS polar||Cofactors and Vitamins||Ascorbate and Aldarate Metabolism||2750||195.05102
+46960	sulfate*||LC/MS neg||Xenobiotics||Chemical||616||96.9601
+46972	X - 21796||LC/MS neg||---||---||1625||138.05655
+46972	X - 21796||LC/MS neg||---||---||1625||138.05655
+47072	X - 21892||LC/MS neg||---||---||1740||131.07125
+47072	X - 21892||LC/MS neg||---||---||1740||131.07125
+47073	X - 21893||LC/MS pos||---||---||3091||115.07545
+47188	X - 20718||LC/MS neg||---||---||2457||338.17259
+47191	X - 20686||LC/MS neg||---||---||1567||362.14776
+47199	X - 12425||LC/MS neg||---||---||743||307.15127
+47201	X - 12700||LC/MS neg||---||---||1054||227.11525
+47203	X - 13007||LC/MS neg||---||---||4597||329.2338
+47217	X - 14141||LC/MS neg||---||---||1335||259.13002
+47218	X - 14697||LC/MS neg||---||---||1276||259.13001
+47219	X - 14196||LC/MS neg||---||---||1717||291.09898
+47220	X - 14213||LC/MS neg||---||---||1795||259.07585
+47220	X - 14213||LC/MS neg||---||---||1795||259.07585
+47223	X - 14254||LC/MS neg||---||---||2015||318.16741
+47225	X - 14314||LC/MS neg||---||---||2273||241.11956
+47225	X - 14314||LC/MS neg||---||---||2273||241.11956
+47226	X - 14302||LC/MS neg||---||---||2211||241.11958
+47226	X - 14302||LC/MS neg||---||---||2211||241.11958
+47247	X - 14502||LC/MS neg||---||---||3908||405.22493
+47250	X - 14625||LC/MS neg||---||---||734||308.09903
+47250	X - 14625||LC/MS neg||---||---||734||308.09903
+47258	X - 14961||LC/MS neg||---||---||677||149.04576
+47270	X - 15904||LC/MS neg||---||---||2700||344.18315
+47274	X - 16283||LC/MS neg||---||---||2322||192.06689
+47274	X - 16283||LC/MS neg||---||---||2322||192.06689
+47279	X - 17246||LC/MS neg||---||---||1241||362.05116
+47281	X - 22035||LC/MS neg||---||---||1551||225.08834
+47284	X - 17709||LC/MS neg||---||---||1023||261.10922
+47290	X - 17805||LC/MS neg||---||---||1341||559.23829
+47294	X - 17828||LC/MS neg||---||---||1700||378.13119
+47296	X - 17842||LC/MS neg||---||---||1830||284.12541
+47342	X - 18345||LC/MS neg||---||---||1400||245.11447
+47343	X - 18347||LC/MS neg||---||---||1415||332.14677
+47344	X - 18349||LC/MS neg||---||---||1821||379.17261
+47345	X - 22099||LC/MS neg||---||---||1754||379.17266
+47347	X - 18889||LC/MS neg||---||---||2633||202.1087
+47347	X - 18889||LC/MS neg||---||---||2633||202.1087
+47348	X - 22102||LC/MS neg||---||---||2603||202.10874
+47348	X - 22102||LC/MS neg||---||---||2603||202.10874
+47351	X - 19197||LC/MS neg||---||---||2387||298.14126
+47352	X - 19220||LC/MS neg||---||---||3200||423.1791
+47357	X - 19746||LC/MS neg||---||---||2107||379.17285
+47358	X - 19751||LC/MS neg||---||---||2321||363.17786
+47371	X - 19921||LC/MS neg||---||---||1561||421.1832
+47375	X - 19925||LC/MS neg||---||---||1894||392.14679
+47377	X - 19928||LC/MS neg||---||---||2161||420.19923
+47381	X - 19932||LC/MS neg||---||---||2566||314.11502
+47390	X - 12015||LC/MS neg||---||---||1296||216.08804
+47391	X - 22145||LC/MS neg||---||---||1844||257.07836
+47409	X - 22154||LC/MS pos||---||---||2675||281.1127
+47410	X - 22155||LC/MS pos||---||---||2763||281.11259
+47423	X - 11612||LC/MS pos||---||---||1841||285.08237
+47435	X - 12565||LC/MS pos||---||---||1748||254.1611
+47436	X - 17062||LC/MS pos||---||---||1661||254.16079
+47437	X - 12680||LC/MS pos||---||---||785||229.12925
+47437	X - 12680||LC/MS pos||---||---||785||229.12925
+47439	X - 13507||LC/MS pos||---||---||1460||158.09251
+47439	X - 13507||LC/MS pos||---||---||1460||158.09251
+47442	X - 13871||LC/MS pos||---||---||987||192.0324
+47442	X - 13871||LC/MS pos||---||---||987||192.0324
+47444	X - 14113||LC/MS pos||---||---||1272||286.15088
+47446	X - 14155||LC/MS pos||---||---||1608||226.15488
+47447	X - 14153||LC/MS pos||---||---||1572||226.15488
+47449	X - 14180||LC/MS pos||---||---||1737||228.17036
+47452	X - 14196||LC/MS pos||---||---||2502||293.11296
+47458	X - 14228||LC/MS pos||---||---||1994||227.10261
+47461	X - 14247||LC/MS pos||---||---||2091||276.17021
+47466	X - 14255||LC/MS pos||---||---||2124||261.1441
+47466	X - 14255||LC/MS pos||---||---||2124||261.1441
+47467	X - 14272||LC/MS pos||---||---||2266||261.14445
+47473	X - 14277||LC/MS pos||---||---||2342||219.13377
+47475	X - 14318||LC/MS pos||---||---||2516||247.12858
+47476	X - 14352||LC/MS pos||---||---||2640||247.12859
+47495	X - 14427||LC/MS pos||---||---||3105||243.13374
+47495	X - 14427||LC/MS pos||---||---||3105||243.13374
+47496	X - 14314||LC/MS pos||---||---||3239||243.13385
+47496	X - 14314||LC/MS pos||---||---||3239||243.13385
+47522	X - 15196||LC/MS pos||---||---||1665||355.19695
+47539	X - 16060||LC/MS neg||---||---||4008||241.0732
+47539	X - 16060||LC/MS neg||---||---||4008||241.0732
+47545	X - 17009||LC/MS neg||---||---||1792||267.07338
+47561	X - 19561||LC/MS neg||---||---||1859||252.08775
+47577	X - 19375||LC/MS neg||---||---||1971||414.21228
+47577	X - 19375||LC/MS neg||---||---||1971||414.21228
+47581	X - 10457||LC/MS pos||---||---||1528||261.14365
+47588	X - 18022||LC/MS pos||---||---||1859||355.16066
+47591	X - 18035||LC/MS pos||---||---||1937||359.22848
+47607	X - 11677||LC/MS pos||---||---||1885||267.0969
+47607	X - 11677||LC/MS pos||---||---||1885||267.0969
+47616	X - 13504||LC/MS pos||---||---||974||228.09734
+47619	X - 15136||LC/MS pos||---||---||4054||243.08701
+47619	X - 15136||LC/MS pos||---||---||4054||243.08701
+47620	X - 15161||LC/MS pos||---||---||1494||206.04783
+47620	X - 15161||LC/MS pos||---||---||1494||206.04783
+47623	X - 15472||LC/MS pos||---||---||3651||204.12266
+47628	X - 15562||LC/MS pos||---||---||4659||470.20197
+47628	X - 15562||LC/MS pos||---||---||4659||470.20197
+47631	X - 15563||LC/MS pos||---||---||4721||490.17069
+47631	X - 15563||LC/MS pos||---||---||4721||490.17069
+47645	X - 15678||LC/MS pos||---||---||1762||249.05357
+47652	X - 11549||LC/MS neg||---||---||5100||339.25461
+47678	X - 22414||LC/MS pos||---||---||1802||162.05831
+47680	X - 10445||LC/MS pos||---||---||1962||250.09295
+47680	X - 10445||LC/MS pos||---||---||1962||250.09295
+47684	X - 11979||LC/MS pos||---||---||2082||251.07697
+47687	X - 12100||LC/MS pos||---||---||1790||221.09193
+47687	X - 12100||LC/MS pos||---||---||1790||221.09193
+47688	X - 12108||LC/MS pos||---||---||1488||160.10801
+47698	X - 12122||LC/MS pos||---||---||1801||276.1437
+47706	X - 12199||LC/MS pos||---||---||3017||263.1022
+47709	X - 12339||LC/MS pos||---||---||1020||174.08724
+47709	X - 12339||LC/MS pos||---||---||1020||174.08724
+47715	X - 12681||LC/MS pos||---||---||910||176.1028
+47789	X - 13529||LC/MS pos||---||---||3069||190.10721
+47798	X - 15192||LC/MS pos||---||---||689||188.17559
+47799	X - 15477||LC/MS pos||---||---||4402||365.23154
+47800	X - 15666||LC/MS pos||---||---||2090||221.09172
+47801	X - 16071||LC/MS pos||---||---||3619||146.05997
+47801	X - 16071||LC/MS pos||---||---||3619||146.05997
+47827	X - 17717||LC/MS pos||---||---||2598||304.14991
+47838	X - 18371||LC/MS pos||---||---||1876||265.08465
+47838	X - 18371||LC/MS pos||---||---||1876||265.08465
+47858	X - 22590||LC/MS pos||---||---||2522||304.14971
+47892	alpha-lipoate||LC/MS neg||Cofactors and Vitamins||Lipoate Metabolism||3651||205.03624
+47898	1-pentadecanoylglycerol (1-monopentadecanoin)||LC/MS neg||Lipid||Monoacylglycerol||6200||241.21728
+47912	X - 12257||LC/MS neg||---||---||1774||269.06683
+47926	X - 12695||LC/MS neg||---||---||712||144.03056
+47954	X - 12879||LC/MS neg||---||---||1115||147.06658
+47996	X - 17345||LC/MS neg||---||---||1557||215.10412
+48076	X - 22771||LC/MS neg||---||---||2220||160.0441
+48080	X - 22775||LC/MS neg||---||---||3010||154.99084
+48080	X - 22775||LC/MS neg||---||---||3010||154.99084
+48130	N6-succinyladenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||2222||384.11499
+48152	glucose||LC/MS polar||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||2342||225.06159
+48189	leucylglutamine*||LC/MS pos||Peptide||Dipeptide||1578||260.1605
+48404	dimethyl sulfoxide (DMSO)*||LC/MS pos||Xenobiotics||Chemical||1034.8||157.03515
+485	spermidine||LC/MS pos||Amino Acid||Polyamine Metabolism||533.5||146.16518
+512	asparagine||LC/MS pos||Amino Acid||Alanine and Aspartate Metabolism||679||133.06077
+513	creatinine||LC/MS pos||Amino Acid||Creatine Metabolism||730.8||114.06619
+514	cytidine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Cytidine containing||1325||242.07824
+5278	nicotinamide adenine dinucleotide (NAD+)||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1434||662.10184
+527	lactate||LC/MS neg||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||681.6||89.02442
+527	lactate||LC/MS polar||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||1468.8||89.02442
+528	alpha-ketoglutarate||LC/MS polar||Energy||TCA Cycle||2700||145.01425
+531	3-hydroxy-3-methylglutarate||LC/MS polar||Lipid||Mevalonate Metabolism||2700||161.04555
+5341	thiamin (Vitamin B1)||LC/MS neg||Cofactors and Vitamins||Thiamine Metabolism||1726||263.0972
+5341	thiamin (Vitamin B1)||LC/MS pos||Cofactors and Vitamins||Thiamine Metabolism||702||265.11176
+53	glutamine||LC/MS pos||Amino Acid||Glutamate Metabolism||680||147.07642
+542	3-hydroxybutyrate (BHBA)||LC/MS polar||Lipid||Ketone Bodies||1443.3||103.04007
+54	tryptophan||LC/MS neg||Amino Acid||Tryptophan Metabolism||2291||203.0826
+54	tryptophan||LC/MS pos||Amino Acid||Tryptophan Metabolism||2440||205.09716
+554	adenine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1002||136.06178
+555	adenosine||LC/MS neg||Nucleotide||Purine Metabolism, Adenine containing||2075.4||134.0472
+555	adenosine||LC/MS pos||Nucleotide||Purine Metabolism, Adenine containing||1625.3||268.10404
+558	adenosine 5'-diphosphoribose (ADP-ribose)||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||920||558.06439
+55	beta-alanine||GC/MS||Nucleotide||Pyrimidine Metabolism, Uracil containing||1451.8||174
+561	ribose 5-phosphate||GC/MS||Carbohydrate||Pentose Phosphate Pathway||1928.4||315.1
+566	phenylpyruvate||LC/MS neg||Amino Acid||Phenylalanine and Tyrosine Metabolism||2517.6||163.04007
+568	biotin||LC/MS pos||Cofactors and Vitamins||Biotin Metabolism||3028.2||245.09545
+56	cystine||LC/MS pos||Amino Acid||Methionine, Cysteine, SAM and Taurine Metabolism||675||241.03113
+573	cytosine||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Cytidine containing||720||112.05054
+575	arabinose||GC/MS||Carbohydrate||Pentose Metabolism||1631.6||217
+577	fructose||GC/MS||Carbohydrate||Fructose, Mannose and Galactose Metabolism||1758||217
+57	glutamate||LC/MS pos||Amino Acid||Glutamate Metabolism||710||148.06044
+584	mannose||LC/MS polar||Carbohydrate||Fructose, Mannose and Galactose Metabolism||2200||179.05611
+587	gluconate||GC/MS||Xenobiotics||Food Component/Plant||1879.4||333
+587	gluconate||LC/MS polar||Xenobiotics||Food Component/Plant||2922||195.05102
+58	glycine||LC/MS pos||Amino Acid||Glycine, Serine and Threonine Metabolism||700||263.14662
+594	nicotinamide||LC/MS neg||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1796.8||121.04073
+594	nicotinamide||LC/MS pos||Cofactors and Vitamins||Nicotinate and Nicotinamide Metabolism||1271.1||123.05529
+597	phosphoenolpyruvate (PEP)||LC/MS neg||Carbohydrate||Glycolysis, Gluconeogenesis, and Pyruvate Metabolism||587.3||166.9751
+59	histidine||LC/MS neg||Amino Acid||Histidine Metabolism||755.9||154.0622
+59	histidine||LC/MS pos||Amino Acid||Histidine Metabolism||642.2||156.07676
+604	thymine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Thymine containing||1654||125.03565
+605	uracil||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1086||111.02
+605	uracil||LC/MS pos||Nucleotide||Pyrimidine Metabolism, Uracil containing||1152.2||113.03456
+606	uridine||LC/MS neg||Nucleotide||Pyrimidine Metabolism, Uracil containing||1457.6||243.06226
+607	trans-urocanate||LC/MS neg||Amino Acid||Histidine Metabolism||777.7||137.03565
+608	pyridoxine (Vitamin B6)||LC/MS neg||Cofactors and Vitamins||Vitamin B6 Metabolism||1657||168.06661
+60	leucine||LC/MS pos||Amino Acid||Leucine, Isoleucine and Valine Metabolism||1680.2||132.10191
+6146	2-aminoadipate||LC/MS pos||Amino Acid||Lysine Metabolism||793.3||162.07609
+64	phenylalanine||LC/MS pos||Amino Acid||Phenylalanine and Tyrosine Metabolism||2050||166.08626
